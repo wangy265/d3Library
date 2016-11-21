@@ -1,0 +1,612 @@
+
+<!doctype html>
+<html lang="en">
+<head lang=en>
+<meta charset="utf-8">
+<title>AttrTween, Transitions and  MV* in Reusable D3</title>
+<style>
+svg {
+	background: #eee;
+}
+path {
+  fill: none;
+  stroke-width: 3px;
+}
+circle {
+  stroke: #fff;
+  stroke-width: 3px;
+}
+text	{
+	font-family: Verdana, sans-serif;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+</style>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+<script>
+//////////////// CONSTANTS ////////////////////
+var C_SVG_WIDTH=1200;
+var C_SVG_HEIGHT=900;
+var C_GENERAL_TRANSITION_TIME = 2000;
+var C_CIRCLE_MIN_RADIUS = 8;
+var C_CIRCLE_RADIUS_RANGE = 25;
+var C_TRANSITION_DELAY = 500;
+var C_MINIMUM_DURATION = 2000;
+var C_DURATION_RANGE = 3000;
+var C_MAX_COLOR_RANGE = 19;
+///////////////////////////////////// patternData Module: START //////////////
+d3.cloudshapes = {};
+d3.cloudshapes.patternData = function module() {
+	var id, pattern, patternData, line_tension, line_interpolation, transition_ease;
+	var path_color, circle_color, text_color, duration;
+	var circle_radius, reverse_flag;
+
+	var exports = function(_id, _line_tension, _line_interpolation){
+		id = _id;
+		line_tension = _line_tension;
+		line_interpolation = _line_interpolation;
+		patternData = d3.map();
+	};
+
+	// Specific pattern data setters:
+	exports.set_spiral_data = function(centerX, centerY, radius, sides, coils, rotation, spiral_text)	{
+		var t_map = d3.map();
+		t_map.set('centerX', centerX);
+		t_map.set('centerY', centerY);
+		t_map.set('radius', radius);
+		t_map.set('sides', sides);
+		t_map.set('coils', coils);
+		t_map.set('rotation', rotation);
+		t_map.set('text', spiral_text);
+		patternData.set('spiral', t_map);
+	}
+
+	exports.set_sine_data = function(startX, startY, width, height, nPoints, sine_text)	{
+		var t_map = d3.map();
+
+		startX = startX - (width/2);
+
+		t_map.set('startX', startX);
+		t_map.set('startY', startY);
+		t_map.set('width', width);
+		t_map.set('height', height);
+		t_map.set('nPoints', nPoints);
+		t_map.set('text', sine_text);
+		patternData.set('sine', t_map);
+	}
+
+	exports.set_circle_data = function(centerX, centerY, radius, nPoints, circle_text)	{
+		var t_map = d3.map();
+		t_map.set('centerX', centerX);
+		t_map.set('centerY', centerY);
+		t_map.set('radius', radius);
+		t_map.set('nPoints', nPoints);
+		t_map.set('text', circle_text);
+		patternData.set('circle', t_map);
+	}
+
+
+	exports.get_pattern_points = function() {
+		var t_ret_points = undefined;
+		var t_pattern_data = patternData.get(pattern);
+		switch(pattern)	{
+			case 'spiral':
+				t_ret_points = exports.createSpiral(t_pattern_data.get('centerX'), t_pattern_data.get('centerY'), t_pattern_data.get('radius'), t_pattern_data.get('sides'), t_pattern_data.get('coils'), t_pattern_data.get('rotation'));
+			break;
+
+			case 'sine':
+				t_ret_points = exports.createSineWave(t_pattern_data.get('startX'), t_pattern_data.get('startY'), t_pattern_data.get('width'), t_pattern_data.get('height'), t_pattern_data.get('nPoints'));
+			break;
+
+			case 'circle':
+				t_ret_points = exports.createCircle(t_pattern_data.get('centerX'), t_pattern_data.get('centerY'), t_pattern_data.get('radius'), t_pattern_data.get('nPoints'));
+			break;
+		}
+		if (reverse_flag==true)
+			t_ret_points.reverse();
+		return t_ret_points;
+	}
+	
+
+	exports.get_pattern_text = function() {
+		var t_ret_points = undefined;
+		var t_pattern_data = patternData.get(pattern);
+		return t_pattern_data.get('text');
+	}
+
+
+	// General Getters / Setters - there are many. 
+	exports.id = function(_id) {
+		if (!arguments.length) return id;
+		id = _id;
+		return this;
+	};
+
+	exports.pattern = function(_pattern) {
+		if (!arguments.length) return pattern;
+		pattern = _pattern;
+		return this;
+	};
+
+	exports.patternData = function(_patternData) {
+		if (!arguments.length) return patternData;
+		patternData = _patternData;
+		return this;
+	};
+
+	exports.line_tension = function(_line_tension) {
+		if (!arguments.length) return line_tension;
+		line_tension = _line_tension;
+		return this;
+	};
+
+	exports.line_interpolation = function(_line_interpolation) {
+		if (!arguments.length) return line_interpolation;
+		line_interpolation = _line_interpolation;
+		return this;
+	};
+
+
+	exports.transition_ease = function(_transition_ease) {
+		if (!arguments.length) return transition_ease;
+		transition_ease = _transition_ease;
+		return this;
+	};
+
+	exports.path_color = function(_path_color) {
+		if (!arguments.length) return path_color;
+		path_color = _path_color;
+		return this;
+	};
+
+	exports.circle_color = function(_circle_color) {
+		if (!arguments.length) return circle_color;
+		circle_color = _circle_color;
+		return this;
+	};
+
+	exports.text_color = function(_text_color) {
+		if (!arguments.length) return text_color;
+		text_color = _text_color;
+		return this;
+	};
+
+
+	exports.duration = function(_duration) {
+		if (!arguments.length) return duration;
+		duration = _duration;
+		return this;
+	};
+
+	exports.circle_radius = function(_circle_radius) {
+		if (!arguments.length) return circle_radius;
+		circle_radius = _circle_radius;
+		return this;
+	};
+
+	exports.reverse_flag = function(_reverse_flag) {
+		if (!arguments.length) return reverse_flag;
+		reverse_flag = _reverse_flag;
+		return this;
+	};
+
+
+	// Functions to generate sets of points: 
+	// SPIRAL CODE SHAMELESSLY LIFTED FROM: http://www.emoticode.net/actionscript-3/dynamically-draw-a-logarithmic-spiral.html?raw
+	//
+	//
+	// centerX-- X origin of the spiral.
+	// centerY-- Y origin of the spiral.
+	// radius--- Distance from origin to outer arm.
+	// sides---- Number of points or sides along the spiral's arm.
+	// coils---- Number of coils or full rotations. (Positive numbers spin clockwise, negative numbers spin counter-clockwise)
+	// rotation- Overall rotation of the spiral. ('0'=no rotation, '1'=360 degrees, '180/360'=180 degrees)
+	//
+	exports.createSpiral = function(centerX, centerY, radius, sides, coils, rotation){
+		var ret_points = [];
+
+		// How far to rotate around center for each side.
+		var aroundStep = coils/sides;// 0 to 1 based.
+		//
+		// Convert aroundStep to radians.
+		var aroundRadians = aroundStep * 2 * Math.PI;
+		//
+		// Convert rotation to radians.
+		rotation *= 2 * Math.PI;
+		//
+		// For every side, step around and away from center.
+		for(var i=1; i<=sides; i++){
+			//
+			// How far away from center
+			var away = Math.pow(radius, i/sides);
+			//
+			// How far around the center.
+			var around = i * aroundRadians + rotation;
+			//
+			// Convert 'around' and 'away' to X and Y.
+			var x = centerX + Math.cos(around) * away;
+			var y = centerY + Math.sin(around) * away;
+			//
+			// Now that you know it, do it.
+			ret_points.push([x,y]);
+		}
+		return ret_points;
+	};
+
+
+	// createCircle ...
+	exports.createCircle=function(centerX, centerY, radius, nPoints){
+		var ret_points = [];
+		var t_step = (Math.PI*2)/nPoints;
+		var t_rad = 0; 
+		for (var i=0; i <= nPoints; i++)	{
+			var t_x = (Math.cos(t_rad) * radius) + centerX;
+			var t_y = (Math.sin(t_rad) * radius) + centerY;
+			ret_points.push([t_x,t_y]);    
+			t_rad += t_step;
+		}
+		return ret_points;
+	}
+
+
+	// createSineWave
+	exports.createSineWave=function(startX, startY, width, height, nPoints){
+		var ret_points = [];
+		// Algorithm to draw circle, see Prince Charles etc ...
+		var t_step = width / nPoints;
+		var t_rad_step = (Math.PI*2)/nPoints;
+		t_x = startX;
+		t_rad = 0;
+		for (var i=0; i <= nPoints; i++)	{
+			t_y = (Math.sin(t_rad) * height) + startY;
+			ret_points.push([t_x,t_y]);    
+			t_rad += t_rad_step;
+			t_x += t_step;
+		}
+		return ret_points;
+	}
+
+
+	return exports;
+};
+///////////////////////////////////// patternData Module: END //////////////
+///////////////////////////////////// patternManager Component: STARTS //////////////
+d3.cloudshapes.patternManager = function module() {
+	var targetSvg;
+	var data;
+	var dispatch = d3.dispatch('transitionComplete', 'allTransitionsComplete', 'all_enter_update_exit_TransitionsComplete');
+	var nTransitionsComplete;
+	var nenter_update_exit_TransitionsComplete;
+
+	function exports(_selection, _data) {
+		data = _data;
+
+		_selection.each(function() {
+			if (!targetSvg) {
+				targetSvg = d3.select(this);
+			}
+
+			nenter_update_exit_TransitionsComplete = 0;
+
+			// 'g' elements. One 'g' per pattern: 
+			// First, create one 'g' per pattern:
+			var enter_gelements = svg.selectAll("g.pattern")
+				.data(data, function(d) { return d.id();})
+				.enter()
+				.append("g")
+				.classed("pattern", true)
+				.attr('id', function(d) { return d.id();})
+				.style({opacity: 0});
+
+			// Update g.pattern: 
+			var update_gelements = svg.selectAll("g.pattern")
+				.data(data, function(d) { return d.id();})
+				.attr('id', function(d) { return d.id();})
+				.transition().delay(C_TRANSITION_DELAY).duration(C_GENERAL_TRANSITION_TIME).style({opacity: 1})
+				.each("end", function() { exports.enter_update_exit_transactionComplete(); });
+
+
+			// Exit g.pattern: 
+			svg.selectAll("g.pattern")
+				.data(data, function(d) { return d.id();})
+				.exit()
+				.transition().delay(C_TRANSITION_DELAY).duration(C_GENERAL_TRANSITION_TIME).style({opacity: 0}).remove()
+				.each("end", function() { exports.enter_update_exit_transactionComplete(); });
+			
+
+
+
+			//////////// Enter() code: ///////////
+			enter_gelements
+				.append("path")
+				.attr("d", function(d)	{
+					var t_line_tension = d.line_tension();
+					var t_line_interpolation = d.line_interpolation();
+					var t_line_creator = d3.svg.line()
+						.tension(t_line_tension)
+						.interpolate(t_line_interpolation)
+						.x(function(d) { return d[0]; })
+						.y(function(d) { return d[1]; });
+
+					var t_points = d.get_pattern_points();
+					var t_ret_value = t_line_creator(t_points);	
+					t_points.length = 0;
+					return t_ret_value;
+				})
+
+			// Add an 'inner' 'g' element - to hold the circle and the text. 
+			var enter_inner_g_elements = enter_gelements
+				.append("g")
+				.classed("inner", true)
+				.attr("transform", function(d,i) {
+					var t_points = d.get_pattern_points();
+					var t_ret_string = "translate(" + t_points[0][0] + "," + t_points[0][1] + ")";
+					t_points.length = 0;
+					return t_ret_string;
+				});
+
+
+			// Add the circle to the 'inner' 'g'element:
+			enter_inner_g_elements
+				.append("circle")
+				.attr("cx", 0)
+				.attr("cy", 0)
+
+			// Add the text to the 'inner' 'g' element:
+			enter_inner_g_elements
+				.append("text")
+				.attr("x", 0)
+				.attr("y", 0)
+				.attr("fill", function(d) { return d.text_color(); })
+				.text(function(d) { 
+					var t_text = d.get_pattern_text();
+
+					var t_d = new Date();
+					var t_curr_hour = t_d.getHours();
+					var t_curr_min = t_d.getMinutes();
+					var t_curr_sec = t_d.getSeconds();
+					return t_text + " (" + t_curr_hour + ":" + t_curr_min + ":" + t_curr_sec + ")";
+				} )
+				.attr("d", function(d) {
+					var t_this_text_element = d3.select(this);
+					var t_bbox = t_this_text_element.node().getBBox();
+					t_this_text_element.attr('x', (-t_bbox.width/2));
+					return d;
+				})
+
+
+			enter_gelements.transition().delay(C_TRANSITION_DELAY).duration(C_GENERAL_TRANSITION_TIME).style({opacity: 1})
+				.each("end", function() { exports.enter_update_exit_transactionComplete(); });
+
+
+			//////////// Update() code: ///////////
+			update_gelements.select("path") 
+				.attr("d", function(d)	{
+					var t_line_tension = d.line_tension();
+					var t_line_interpolation = d.line_interpolation();
+					var t_line_creator = d3.svg.line()
+						.tension(t_line_tension)
+						.interpolate(t_line_interpolation)
+						.x(function(d) { return d[0]; })
+						.y(function(d) { return d[1]; });
+					var t_points = d.get_pattern_points();
+					var t_ret_value = t_line_creator(t_points);	
+					t_points.length = 0;
+					return t_ret_value;
+				})
+				.style("stroke", function(d) { return d.path_color(); })
+
+			// Here - need to translate to start position of the path ...:
+			update_gelements.select("g.inner")
+				.attr("transform", function(d,i) {
+					var t_points = d.get_pattern_points();
+					var t_ret_string = "translate(" + t_points[0][0] + "," + t_points[0][1] + ")";
+					t_points.length = 0;
+					return t_ret_string;
+				});
+
+			// Update circle: 	
+			update_gelements.select("g.inner").select("circle")
+				.attr("r", function(d) { return d.circle_radius();} )
+				.style("fill", function(d) { return d.circle_color(); });
+
+			// Update text: 
+			update_gelements.select("g.inner").select("text")
+				.attr("fill", function(d) { return d.text_color(); })
+				.text(function(d) { 
+					var t_text = d.get_pattern_text();
+
+					var t_d = new Date();
+					var t_curr_hour = t_d.getHours();
+					var t_curr_min = t_d.getMinutes();
+					var t_curr_sec = t_d.getSeconds();
+					return t_text + " (" + t_curr_hour + ":" + t_curr_min + ":" + t_curr_sec + ")";
+				} )
+				.attr("d", function(d) {
+					var t_this_text_element = d3.select(this);
+					var t_bbox = t_this_text_element.node().getBBox();
+					t_this_text_element.attr('x', (-t_bbox.width/2));
+					return d;
+				})
+			exports.on('transitionComplete', function(){exports.transitionsAllComplete();});
+		})
+
+
+
+		exports.enter_update_exit_transactionComplete = function()	{
+			nenter_update_exit_TransitionsComplete++;
+			if (nenter_update_exit_TransitionsComplete == data.length)	{
+				// Ready to go, so send event.
+				dispatch.all_enter_update_exit_TransitionsComplete();
+			}
+		}
+
+		exports.transitionsAllComplete = function()	{
+			nTransitionsComplete++;
+			if (nTransitionsComplete == data.length)	{
+				dispatch.allTransitionsComplete();
+			}
+		}
+
+		exports.transition = function() {
+			nTransitionsComplete=0;
+			var t_gelements = targetSvg.selectAll("g.pattern").selectAll("g.inner");
+			t_gelements
+				.attr("d", function(d) { 
+					var t_ease_param = d.transition_ease();
+					var t_ease_function = d3.ease(t_ease_param);
+
+					d3.select(this).transition()
+						.ease(t_ease_function)
+						.duration(function(d) { return d.duration();  }) 
+						.delay(C_TRANSITION_DELAY)
+						.attrTween("transform", exports.translateAlong()  ) 
+						.each("end", function() {dispatch.transitionComplete();});
+
+					return d;
+				})
+		}
+
+		exports.translateAlong = function() {
+			return function(d, i, a) {
+				var t_path = d3.select(this.parentNode).select("path");
+				return function(t) {
+					var t_path_node = t_path.node();
+					var l = t_path_node.getTotalLength();
+					var p = t_path_node.getPointAtLength(t * l);
+					return "translate(" + p.x + "," + p.y + ")";
+				};
+			};
+		}
+	}
+
+	d3.rebind(exports, dispatch, "on");
+	return exports;
+};
+///////////////////////////////////// patternManager Component: Ends //////////////
+///////////////////// Code that actually uses the module and the component: 
+// cached_data: cache of pattern data that we want to use. Acts as a backup, a repository from which we 
+// periodically take copies of pattern data.
+var cached_data = [];
+// live_data: the data that the patternManager actually uses.
+// So this is an array that fluctuates between having a fully copy of cached_data, and having a 
+// copy of cached_data minus one entry.
+var live_data = [];
+// Create three items of pattern data, each in their own instance of the patternData module:
+var t_pattern1 = d3.cloudshapes.patternData();
+t_pattern1(1, 0.5, "cardinal");
+t_pattern1.set_spiral_data(250, 300, 240, 1200, 24, 0.65, "Spiral 1");
+t_pattern1.set_circle_data(150,300, 100, 100, "Circle 1");
+t_pattern1.set_sine_data(150,300,300,200, 100, "Sine 1");
+var t_pattern2 = d3.cloudshapes.patternData();
+t_pattern2(2, 0.5, "cardinal");
+t_pattern2.set_spiral_data(550,300,240,1200,24,0.65,"Spiral 2");
+t_pattern2.set_circle_data(450,300, 100, 100, "Circle 2");
+t_pattern2.set_sine_data(450,300,300,200, 100, "Sine 2");
+var t_pattern3 = d3.cloudshapes.patternData();
+t_pattern3(3, 0.5, "cardinal");
+t_pattern3.set_spiral_data(850,300,240,1200,24,0.65, "Spiral 3");
+t_pattern3.set_circle_data(750,300, 100, 100, "Circle 3");
+t_pattern3.set_sine_data(750,300,300,200, 100, "Sine 3");
+// Stuff them in the cached_data array.
+cached_data.push(t_pattern1);
+cached_data.push(t_pattern2);
+cached_data.push(t_pattern3);
+var dispatch = d3.dispatch('patternManagerTransitionComplete');
+// Initialise the main SVG:
+var svg = d3.select("body").append("svg")
+    .attr("width", C_SVG_WIDTH)
+    .attr("height", C_SVG_HEIGHT);
+// Setup instance of patternManager:
+var patternManager = d3.cloudshapes.patternManager();
+
+// Once all of enter, update, and exit transitions are complete, then 
+// kick off the main transitions.
+patternManager.on('all_enter_update_exit_TransitionsComplete', function()	{
+		patternManager.transition();
+});
+// Once the main transitions are all complete, dispatch an event so we're
+// definitely not calling the patternManager from within patternManager code.
+patternManager.on('allTransitionsComplete', function()	{
+	dispatch.patternManagerTransitionComplete();
+});
+var t_ease = ['linear-in-out', 'cubic-in-out', 'bounce-in-out', 'back-in-out', 'sin-in-out', 'quad-in-out'];
+var t_patterns = ['circle', 'spiral', 'sine'];
+
+// At this point, we know all the main transitions are complete,
+// so fiddle with / change / randomise data, and kick off the main transitions again: 
+dispatch.on('patternManagerTransitionComplete', function(){ 
+
+		// First up, make sure live_data contains a full copy of cached_data.
+		for (var i=0; i<cached_data.length; i++)	{
+			if (live_data.length==0)	{
+				live_data.push(cached_data[i]);
+			}	else	{
+				var t_found = false;
+				for (var j=0;j<live_data.length;j++)	{
+					if (cached_data[i].id() == live_data[j].id())	{
+						t_found = true;
+					}
+				}
+				if (t_found == false)	{
+					live_data.push(cached_data[i]);
+				}
+			}			
+		}
+
+		// Occasionally, randomly delete one entry from live_data.
+		var t_delete_or_not = Math.round(Math.random());
+		if (t_delete_or_not==1)	{
+				var t_index_to_delete = Math.floor(Math.random()*live_data.length);
+				live_data.splice(t_index_to_delete, 1);
+		}
+
+		// Next up: randomly change various bits'n'bobs in each visual pattern.
+		var t_path_color_list = d3.scale.category20();
+		var t_circle_color_list = d3.scale.category20b();
+		var t_text_color_list = d3.scale.category20();
+
+		var t_patterns_length = t_patterns.length;
+		for (var i=0; i < live_data.length; i++)	{
+			var t_pattern_index = Math.floor(Math.random() * t_patterns_length); 
+			var t_pattern = t_patterns[t_pattern_index];
+			live_data[i].pattern(t_pattern);
+
+			var t_cr_radius = C_CIRCLE_MIN_RADIUS + Math.floor(Math.random() * C_CIRCLE_RADIUS_RANGE); 
+			live_data[i].circle_radius(t_cr_radius);
+
+			var t_ease_setting = Math.floor(Math.random() * t_ease.length); 
+			live_data[i].transition_ease(t_ease[t_ease_setting]);
+
+			var t_path_color_index = Math.floor(Math.random() * C_MAX_COLOR_RANGE); 
+			var t_path_color = t_path_color_list.range()[t_path_color_index];
+			live_data[i].path_color(t_path_color);
+
+			var t_circle_index = Math.floor(Math.random() * C_MAX_COLOR_RANGE); 
+			var t_circle_color = t_circle_color_list.range()[t_circle_index];
+			live_data[i].circle_color(t_circle_color);
+
+			var t_text_index = Math.floor(Math.random() * C_MAX_COLOR_RANGE); 
+			var t_text_color = t_text_color_list.range()[t_text_index];
+			live_data[i].text_color(t_text_color);
+
+			var t_duration = C_MINIMUM_DURATION + Math.floor(Math.random() * C_DURATION_RANGE); 
+			live_data[i].duration(t_duration);
+
+			live_data[i].reverse_flag(true);
+			if (Math.round(Math.random())==1)
+				live_data[i].reverse_flag(false);
+		}
+
+		// Actually call the patternManager, render the patterns specified in live_data. 
+		svg.call(patternManager, live_data);
+});
+// Kick things off:
+dispatch.patternManagerTransitionComplete();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  font: 12px sans-serif;
+}
+
+.background {
+  fill:  url(#background-gradient);
+  shape-rendering: geometricPrecision;
+}
+
+.axis path,
+.axis line {
+  display: none;
+}
+
+.tick text {
+  fill: #fff;
+}
+
+.line {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.date-line {
+  fill: none;
+  stroke: #fff;
+  stroke-opacity: .6;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.area {
+  fill: url(#area-gradient);
+}
+
+.dot {
+  stroke: #fff;
+  fill: #FF4330;
+  stroke-width: 1.5px;
+}
+
+.label-small {
+  fill: #fff;
+  fill-opacity: 1;
+  font-size: 12px;
+}
+
+.label-large {
+  fill: #fff;
+  fill-opacity: 1;
+  font-size: 16px;
+}
+
+.icon {
+  fill: #fff;
+  stroke: #fff;
+  stroke-width: 1.5px;
+  shape-rendering: geometricPrecision;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.js"></script>
+<script>
+
+var margin = {top: 60, right: 20, bottom: 30, left: 50},
+    width = 960 - margin.left - margin.right,
+    height = 350 - margin.top - margin.bottom;
+
+var parseDate = d3.time.format("%d-%b-%y").parse;
+
+var x = d3.time.scale()
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .range([height, 0]);
+
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+
+var line = d3.svg.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.rate); });
+
+var area = d3.svg.area()
+  .x(function(d) { return x(d.date); })
+  .y0(height)
+  .y1(function(d) { return y(d.rate); });
+
+var svg = d3.select("body").append("svg")
+    .attr("class", "svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom);
+
+svg.append("rect")
+  .attr("class", "background")
+  .attr("rx", "5px")
+  .attr("ry", "5px")
+  .attr("width", width + margin.left + margin.right)
+  .attr("height", height + margin.top + margin.bottom);
+
+svg = svg.append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.tsv("data/data.tsv", function(error, data) {
+  data.forEach(function(d) {
+    d.date = parseDate(d.date);
+    d.rate = +d.rate;
+  });
+
+  var maxValue = d3.max(data, function(d) { return d.rate; }) + 20,
+    minValue = d3.min(data, function(d) { return d.rate; }) - 20;
+
+  x.domain(d3.extent(data, function(d) { return d.date; }));
+  y.domain([minValue, maxValue]);
+
+  svg.append("linearGradient")
+    .attr("id", "background-gradient")
+    .attr("gradientUnits", "userSpaceOnUse")
+    .attr("x1", 0).attr("y1", 0)
+    .attr("x2", 0).attr("y2", height)
+  .selectAll("stop")
+    .data([
+      {offset: "0%", color: "#FF9250"},
+      {offset: "100%", color: "#FF4330"}
+    ])
+  .enter().append("stop")
+    .attr("offset", function(d) { return d.offset; })
+    .attr("stop-color", function(d) { return d.color; });
+
+  svg.append("linearGradient")
+    .attr("id", "area-gradient")
+    .attr("gradientUnits", "userSpaceOnUse")
+    .attr("x1", 0).attr("y1", y(0))
+    .attr("x2", 0).attr("y2", y(d3.max(data, function(d) { return d.rate; })))
+  .selectAll("stop")
+    .data([
+      {offset: "40%", color: "#fff", opacity: "0%"},
+      {offset: "100%", color: "#fff", opacity: "30%"}
+    ])
+  .enter().append("stop")
+    .attr("offset", function(d) { return d.offset; })
+    .attr("stop-color", function(d) { return d.color; })
+    .attr("stop-opacity", function(d) { return d.opacity; });
+
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(" + (-15) + "," + height + ")")
+      .call(xAxis);
+
+  svg.append("path")
+      .datum(data)
+      .attr("class", "line")
+      .attr("d", line);
+
+  svg.append("path")
+      .datum(data)
+      .attr("class", "area")
+      .attr("d", area);
+
+  svg.append("g").attr("class", "scatter")
+    .selectAll("circle")
+    .data(data)
+    .enter().append("circle")
+    .attr("class", "dot")
+    .attr("cx", function(d) {
+          return x(d.date);
+     })
+     .attr("cy", function(d) {
+          return y(d.rate);
+     })
+     .attr("r", 3);
+
+  svg.append("g").selectAll("line")
+    .data([
+      {y1: y(minValue), y2: y(minValue), x1: 0, x2: width},
+      {y1: y((maxValue+minValue)/2), y2: y((maxValue+minValue)/2), x1: 0, x2: width},
+      {y1: y(maxValue), y2: y(maxValue), x1: 0, x2: width},
+
+    ])
+  .enter().append("line")
+    .attr("class", "date-line")
+    .attr("y1", function(d) { return d.y1; })
+    .attr("y2", function(d) { return d.y2; })
+    .attr("x1", function(d) { return d.x1; })
+    .attr("x2", function(d) { return d.x2; });
+
+  svg.append("g").selectAll("text")
+    .data([
+      {text: d3.round(minValue, 0), x: width, y: y(minValue) - 5, anchor: "end", labelClass: "label-small"},
+      {text: d3.round(maxValue, 0), x: width, y: y(maxValue) + 15, anchor: "end", labelClass: "label-small"},
+      {text: "Daily Avg: " + d3.round(d3.mean(data ,function (d) { return d.rate}), 0), x: 50, y: y(maxValue) - 5, anchor: "start", labelClass: "label-small"},
+      {text: "Calories Burned", x: 50, y: y(maxValue) - 25, anchor: "start", labelClass: "label-large"},
+      {text: d3.round(data[0].rate, 0) + "cal", x: width, y: y(maxValue) - 25, anchor: "end", labelClass: "label-large"},
+      {text: "Today", x: width, y: y(maxValue) - 5, anchor: "end", labelClass: "label-small"}
+    ])
+  .enter().append("text")
+    .attr("class", function(d) { return d.labelClass; })
+    .text(function(d) { return d.text; })
+    .attr("x", function(d) { return d.x; })
+    .attr("y", function(d) { return d.y; })
+    .attr("text-anchor", function(d) { return d.anchor; });
+
+  svg.append("path")
+      .attr("d", d3.svg.symbol()
+        .size(function(d) { return 400; })
+        .type(function(d) { return "triangle-up"; }))
+      .attr("class", "icon")
+      .attr("transform", "translate(" + 25 + "," + (-20) + ")");
+});
+
+</script>
