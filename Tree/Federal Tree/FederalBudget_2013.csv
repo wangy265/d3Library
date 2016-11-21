@@ -1,0 +1,1339 @@
+Category,Level1,Level2,Level3,Level4,Federal,,GovXFer,State,Local,Total,goodsnum
+#NAME?,Pensions,Sickness and disability,,,0,,0,0,0,0,1
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),Special Benefits,0.38,b,,,,0.38,2
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),Foreign Service Retirement and Disability Fund,0.893,b,,,,0.893,3
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),Armed Forces Retirement Home,0.083,b,,,,0.083,4
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),Military Retirement Fund,54.561,b,,,,54.561,5
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),"Reemployed Annuitants Salary Offset, Civil Service Retirement and Disability Fund",-0.052,b,,,,-0.052,6
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),Civil Service Retirement and Disability Fund,0.105,b,,,,0.105,7
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),Civil Service Retirement and Disability Fund,83.099,b,,,,83.099,8
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),Employees Life Insurance Fund,-2.075,b,,,,-2.075,9
+---Judicial Officers' Retirement Fund,Pensions,Old age,Federal employee retirement and disability (602),Judicial Officers' Retirement Fund,0.059,b,,,,0.059,10
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),"Reimbursement for Program Expenses, Federal Retirement Thrift Investment Board",-0.146,b,,,,-0.146,11
+#NAME?,Pensions,Old age,Federal employee retirement and disability (602),Program Expenses,0.146,b,,,,0.146,12
+#NAME?,Pensions,Old age,Social security (651),Payments to Social Security Trust Funds,61.661,b,,,,61.661,13
+#NAME?,Pensions,Old age,Social security (651),"Administrative Expenses, Recovery Act",0.175,b,,,,0.175,14
+"---FOASI, General Fund Payments for Payroll Tax Holiday (PL 111-312)",Pensions,Old age,Social security (651),"FOASI, General Fund Payments for Payroll Tax Holiday (PL 111312)",-25.456,b,,,,-25.456,15
+#NAME?,Pensions,Old age,Social security (651),"FOASI, Federal Payments to the FOASI Trust Fund",-29.19,b,,,,-29.19,16
+#NAME?,Pensions,Old age,Social security (651),Federal Oldage and Survivors Insurance Trust Fund,2.629,b,,,,2.629,17
+#NAME?,Pensions,Old age,Social security (651),Federal Oldage and Survivors Insurance Trust Fund,676.467,b,,,,676.467,18
+"---FDI, General Fund Payments for Payroll Tax Holiday (PL 111-312)",Pensions,Old age,Social security (651),"FDI, General Fund Payments for Payroll Tax Holiday (PL 111312)",-4.317,b,,,,-4.317,19
+#NAME?,Pensions,Old age,Social security (651),"FDI, Federal Payments to the FDI Trust Fund",-2.495,b,,,,-2.495,20
+#NAME?,Pensions,Old age,Social security (651),Federal Disability Insurance Trust Fund,3.026,b,,,,3.026,21
+#NAME?,Pensions,Old age,Social security (651),Federal Disability Insurance Trust Fund,143.547,b,,,,143.547,22
+#NAME?,Pensions,Old age,Social security (651),Limitation on Administrative Expenses,-0.16,b,,,,-0.16,23
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","Postal Service Contributions for Current Workers, Postal Service Retiree Health Benefits Fund",-3.339,b,,,,-3.339,24
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","NonDoD Employing Agency Contributions, DoD MedicareEligible Retiree Health Care Fund",-0.196,b,,,,-0.196,25
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","Department of Defense Contributions, DoD MedicareEligible Retiree Health Care Fund",-6.953,b,,,,-6.953,26
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","FHI Trust Fund, Federal Employer Contributions (FICA)",-3.649,b,,,,-3.649,27
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","FHI Trust Fund, Postal Service Employer Contributions (FICA)",-0.59,b,,,,-0.59,28
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","Employing Agency Contributions, Military Retirement Fund",-20.844,b,,,,-20.844,29
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","Federal Contributions (concurrent Receipt Accruals), Military Retirement Fund",-6.95,b,,,,-6.95,30
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","Agency Contributions, Civil Service Retirement and Disability Fund",-21.257,b,,,,-21.257,31
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","Postal Service Agency Contributions, Civil Service Retirement and Disability Fund",-3.933,b,,,,-3.933,32
+#NAME?,Pensions,Old age,"Employer share, employee retirement (onbudget) (951)","Employing Agency Contributions, Foreign Service Retirement and Disability Fund",-0.322,b,,,,-0.322,33
+#NAME?,Pensions,Old age,"Employer share, employee retirement (offbudget) (952)","FOASI, Federal Employer Contributions (FICA Taxes)",-14.103,b,,,,-14.103,34
+#NAME?,Pensions,Old age,"Employer share, employee retirement (offbudget) (952)","FDI, Federal Employer Contributions (FICA Taxes)",-2.395,b,,,,-2.395,35
+#NAME?,Pensions,Old age,Employee Retirement  Benefit Payments (X11),,0,g,0,186.3,42.6,228.9,36
+#NAME?,Pensions,Old age,Employee Retirement  Withdrawals (X12),,0,g,0,4.5,0.9,5.4,37
+--Employee Retirement - Other Payments (Disc. 2005) (X14),Pensions,Old age,Employee Retirement  Other Payments (Disc. 2005) (X14),,0,,0,0,0,0,38
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Federal Contributions, FSMI Fund",-194.019,b,,,,-194.019,39
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Premiums Collected for Medicare Prescription Drug Account, FSMI",-4.082,b,,,,-4.082,40
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Payments from States, Medicare Prescription Drug Account, FSMI",-8.985,b,,,,-8.985,41
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Basic Premium, Medicare Advantage, FSMI Trust Fund",-0.215,b,,,,-0.215,42
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Medicare Refunds, SMI",-4.4,b,,,,-4.4,43
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Federal Contribution for Admin. Contribution for Admin. Costs, Prescription Drug Account, FSMI",-0.424,b,,,,-0.424,44
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Federal Contributions for Benefits, Prescription Drug Account, SMI",-56.194,b,,,,-56.194,45
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Premiums Collected for the Aged, FSMI Fund",-54.735,b,,,,-54.735,46
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),Manufacturer Rebates,-5.87,b,,,,-5.87,47
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Premiums Collected for the Disabled, FSMI Fund",-10.513,b,,,,-10.513,48
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Taxation on OASDI Benefits",-20.811,b,,,,-20.811,49
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Basic Premium, Medicare Advantage",-0.225,b,,,,-0.225,50
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Payment from the General Fund for Health Care Fraud and Abuse Control Account",-0.134,b,,,,-0.134,51
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Transfers from General Fund (criminal Fines)",-1.126,b,,,,-1.126,52
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Medicare Refunds",-5.8,b,,,,-5.8,53
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",-0.672,b,,,,-0.672,54
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"FHI Trust Fund, Premiums Collected for Uninsured Individuals not Otherwise Eligible",-3.552,b,,,,-3.552,55
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),Payments to Health Care Trust Funds,273.401,b,,,,273.401,56
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),Federal Supplementary Medical Insurance Trust Fund,3.761,b,,,,3.761,57
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),Federal Supplementary Medical Insurance Trust Fund,264.336,b,,,,264.336,58
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),Federal Hospital Insurance Trust Fund,2.195,b,,,,2.195,59
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),Federal Hospital Insurance Trust Fund,281.418,b,,,,281.418,60
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",0.399,b,,,,0.399,61
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",75.119,b,,,,75.119,62
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),Health Care Fraud and Abuse Control Account,0.61,b,,,,0.61,63
+#NAME?,Health Care,Medical service (Seniors),Medicare (571),Health Care Fraud and Abuse Control Account,0.767,b,,,,0.767,64
+#NAME?,Health Care,Medical service,Federal Intergovernmental  Health and Hospitals (B42),,0,g,-28.2,0,0,-28.2,65
+#NAME?,Health Care,Medical service,Current Operations  Health  Other (E32),,0,g,0,35.7,36.9,72.6,66
+#NAME?,Health Care,Medical service,Current Operations  Hospitals (E36),,0,g,0,60,84.1,144.1,67
+--Current Operations - Hospitals - Other (Disc. 2005) (E38),Health Care,Medical service,Current Operations  Hospitals  Other (Disc. 2005) (E38),,0,,0,0,0,0,68
+#NAME?,Health Care,Medical service,Construction  Health  Other (F32),,0,g,0,0.9,0.5,1.4,69
+#NAME?,Health Care,Medical service,Construction  Hospitals (F36),,0,g,0,2.2,4,6.2,70
+--Construction - Hospitals - Other (Disc. 2005) (F38),Health Care,Medical service,Construction  Hospitals  Other (Disc. 2005) (F38),,0,,0,0,0,0,71
+#NAME?,Health Care,Medical service,Other Capital Outlay  Health  Other (G32),,0,g,0,0.3,0.3,0.6,72
+#NAME?,Health Care,Medical service,Other Capital Outlay  Hospitals (G36),,0,g,0,0.9,2.3,3.2,73
+--Other Capital Outlay - Hospitals - Other (Disc. 2005) (G38),Health Care,Medical service,Other Capital Outlay  Hospitals  Other (Disc. 2005) (G38),,0,,0,0,0,0,74
+#NAME?,Health Care,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.115,b,,,,0.115,75
+#NAME?,Health Care,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.455,b,,,,0.455,76
+#NAME?,Health Care,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.373,b,,,,0.373,77
+#NAME?,Health Care,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.132,b,,,,0.132,78
+#NAME?,Health Care,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.051,b,,,,0.051,79
+#NAME?,Health Care,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,0.947,b,,,,0.947,80
+#NAME?,Health Care,Public health services,Consumer and occupational health and safety (554),Salaries and Expenses,2.496,b,,,,2.496,81
+--Intergovernmental Revenue from Federal - Environmental Health (NEW for 2007) (B43),Health Care,Public health services,Intergovernmental Revenue from Federal  Environmental Health (NEW for 2007) (B43),,0,,0,0,0,0,82
+--Current Operations - Environmental Health (NEW for 2007) (E27),Health Care,Public health services,Current Operations  Environmental Health (NEW for 2007) (E27),,0,,0,0,0,0,83
+--Construction - Environmental Health (NEW for 2007) (F27),Health Care,Public health services,Construction  Environmental Health (NEW for 2007) (F27),,0,,0,0,0,0,84
+--Other Capital Outlay - Environmental Health (NEW for 2007) (G27),Health Care,Public health services,Other Capital Outlay  Environmental Health (NEW for 2007) (G27),,0,,0,0,0,0,85
+#NAME?,Health Care,R&D Health,Health research and training (552),Payment to the PatientCentered Outcomes Research Trust Fund,0.15,b,,,,0.15,86
+#NAME?,Health Care,R&D Health,Health research and training (552),"Payment from the General Fund, PatientCentered Outcomes Research Trust Fund",-0.15,b,,,,-0.15,87
+#NAME?,Health Care,R&D Health,Health research and training (552),PatientCentered Outcomes Research Trust Fund,0.265,b,,,,0.265,88
+#NAME?,Health Care,R&D Health,Health research and training (552),Health Resources and Services,0.569,b,,,,0.569,89
+#NAME?,Health Care,R&D Health,Health research and training (552),Health Resources and Services,0.144,b,,,,0.144,90
+#NAME?,Health Care,R&D Health,Health research and training (552),CDCWide Activities and Program Support,0.194,b,,,,0.194,91
+#NAME?,Health Care,R&D Health,Health research and training (552),CDCWide Activities and Program Support,-0.201,b,,,,-0.201,92
+#NAME?,Health Care,R&D Health,Health research and training (552),CDCWide Activities and Program Support,0.712,b,,,,0.712,93
+#NAME?,Health Care,R&D Health,Health research and training (552),National Institutes of Health,30.314,b,,,,30.314,94
+#NAME?,Health Care,R&D Health,Health research and training (552),National Institutes of Health,0.167,b,,,,0.167,95
+#NAME?,Health Care,R&D Health,Health research and training (552),Healthcare Research and Quality,0.138,b,,,,0.138,96
+#NAME?,Health Care,R&D Health,Health research and training (552),Transfers from the PatientCentered Outcomes Research Trust Fund,-0.051,b,,,,-0.051,97
+553,Health Care,R&D Health,-553,,0,,0,0,0,0,98
+#NAME?,Health Care,Health n.e.c.,,,0,,0,0,0,0,99
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Supplemental Payments to UMWA Health Plans,0.175,b,,,,0.175,100
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Abandoned Mine Reclamation Fund,0.056,b,,,,0.056,101
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Payment Where Health Coverage Tax Credit Exceeds Liability for Tax,0.189,b,,,,0.189,102
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Payment Where Small Business Health Insurance Tax Credit Exceeds Liability for Tax,0.2,b,,,,0.2,103
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Department of Defense MedicareEligible Retiree Health Care Fund,9.727,b,,,,9.727,104
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Biodefense Countermeasures,0.282,b,,,,0.282,105
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),"Government Payment for Annuitants, Employees Health Benefits",10.97,b,,,,10.97,106
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Postal Service Retiree Health Benefits Fund,2.912,b,,,,2.912,107
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Employees and Retired Employees Health Benefits Funds,-0.059,b,,,,-0.059,108
+---United Mine Workers of America 1992 Benefit Plan,Health Care,Vendor Payments (Welfare),Health care services (551),United Mine Workers of America 1992 Benefit Plan,0.068,b,,,,0.068,109
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Transfers from Abandoned Mine Reclamation Fund,-0.056,b,,,,-0.056,110
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Federal Payment to United Mine Workers of America Combined Benefit Fund,-0.175,b,,,,-0.175,111
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),United Mine Workers of America Combined Benefit Fund,0.134,b,,,,0.134,112
+---United Mine Workers of America 1993 Benefit Plan,Health Care,Vendor Payments (Welfare),Health care services (551),United Mine Workers of America 1993 Benefit Plan,0.061,b,,,,0.061,113
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),"Maternal, Infant, and Early Childhood Home Visiting Programs",0.359,b,,,,0.359,114
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Health Resources and Services,2.463,b,,,,2.463,115
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Health Resources and Services,3.181,b,,,,3.181,116
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Health Resources and Services,1.679,b,,,,1.679,117
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Vaccine Injury Compensation Program Trust Fund,0.242,b,,,,0.242,118
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Indian Health Services,4.161,b,,,,4.161,119
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Indian Health Services,0.156,b,,,,0.156,120
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Indian Health Facilities,0.397,b,,,,0.397,121
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),CDCWide Activities and Program Support,1.936,b,,,,1.936,122
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),CDCWide Activities and Program Support,3.458,b,,,,3.458,123
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),"Toxic Substances and Environmental Public Health, Agency for Toxic Substances and Disease Registry",0.077,b,,,,0.077,124
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),World Trade Center Health Program Fund,0.161,b,,,,0.161,125
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Susbstance Abuse and Mental Health Services Administration,2.965,b,,,,2.965,126
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Susbstance Abuse and Mental Health Services Administration,0.343,b,,,,0.343,127
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Susbstance Abuse and Mental Health Services Administration,0.097,b,,,,0.097,128
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Rate Review Grants,0.08,b,,,,0.08,129
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),PreExisting Condition Insurance Plan Program,2.055,b,,,,2.055,130
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Affordable Insurance Exchange Grants,1.087,b,,,,1.087,131
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Consumer Operated and Oriented Plan Program Account,0.803,b,,,,0.803,132
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Program Management,0.468,b,,,,0.468,133
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Grants to States for Medicaid,282.819,b,,,,282.819,134
+---Children's Health Insurance Fund,Health Care,Vendor Payments (Welfare),Health care services (551),Children's Health Insurance Fund,10.027,b,,,,10.027,135
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),State Grants and Demonstrations,0.474,b,,,,0.474,136
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Center for Medicare and Medicaid Innovation,1.09,b,,,,1.09,137
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Child Enrollment Contingency Fund,0.2,b,,,,0.2,138
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Health Insurance Reform Implementation Fund,0.344,b,,,,0.344,139
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Office of the National Coordinator for Health Information Technology,0.418,b,,,,0.418,140
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Public Health and Social Services Emergency Fund,0.374,b,,,,0.374,141
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Public Health and Social Services Emergency Fund,1.507,b,,,,1.507,142
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),General Departmental Management,0.426,b,,,,0.426,143
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Retirement Pay and Medical Benefits for Commissioned Officers,0.526,b,,,,0.526,144
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Miscellaneous Trust Funds,0.069,b,,,,0.069,145
+#NAME?,Health Care,Vendor Payments (Welfare),Health care services (551),Office of the Inspector General,0.057,b,,,,0.057,146
+#NAME?,Health Care,Vendor Payments (Welfare),Federal Intergovernmental  Public Welfare (B79),,0,g,-337.8,0,0,-337.8,147
+"--Current Operations - Welfare, Payments to Medicare Trust Fund (NEW for 2007; previous (E73)",Health Care,Vendor Payments (Welfare),"Current Operations  Welfare, Payments to Medicare Trust Fund (NEW for 2007; previous (E73)",,0,g,0,7.1,0,7.1,148
+#NAME?,Health Care,Vendor Payments (Welfare),"Current Operations  Public Welfare, Vendor Payments for Medical Care (E74)",,0,g,0,391.3,5.7,397,149
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Operation of Indian Programs,0.103,b,,,,0.103,150
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Operation of Indian Programs,0.673,b,,,,0.673,151
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Payment to Issuer of Qualified School Construction Bonds,0.82,b,,,,0.82,152
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Education Improvement Programs,4.426,b,,,,4.426,153
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Education Improvement Programs,0.12,b,,,,0.12,154
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Indian Student Education,0.123,b,,,,0.123,155
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Impact Aid,1.26,b,,,,1.26,156
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Supporting Student Success,0.323,b,,,,0.323,157
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Accelerating Achievement and Ensuring Equity,15.364,b,,,,15.364,158
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Innovation and Instructional Teams,1.305,b,,,,1.305,159
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Innovation and Instructional Teams,0.494,b,,,,0.494,160
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",English Learner Education,0.685,b,,,,0.685,161
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Special Education,12.475,b,,,,12.475,162
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Special Education,0.208,b,,,,0.208,163
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)","Career, Technical and Adult Education",1.679,b,,,,1.679,164
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",American Jobs Act,19.577,b,,,,19.577,165
+#NAME?,Education,Preprimary thru secondary education,"Elementary, secondary, and vocational education (501)",Federal Payment for School Improvement,0.06,b,,,,0.06,166
+#NAME?,Education,Preprimary thru secondary education,Federal Intergovernmental  Education (B21),,0,g,-104.4,0,0,-104.4,167
+#NAME?,Education,Preprimary thru secondary education,Current Operations  Elementary and Secondary Education (E12),,0,g,0,5.5,407.8,413.3,168
+#NAME?,Education,Preprimary thru secondary education,Construction  Elementary and Secondary Education (F12),,0,g,0,0.5,39.8,40.3,169
+#NAME?,Education,Preprimary thru secondary education,Other Capital Outlay  Elementary and Secondary Education (G12),,0,g,0,0.4,16.7,17.1,170
+#NAME?,Education,Tertiary education,Higher education (502),Payment Where American Opportunity Credit Exceeds Liability for TAX,7.541,b,,,,7.541,171
+#NAME?,Education,Tertiary education,Higher education (502),"Federal Family Education Loan Program, Negative Subsidies",-3.39,b,,,,-3.39,172
+#NAME?,Education,Tertiary education,Higher education (502),"Federal Direct Student Loan Program, Negative Subsidies",-28.709,b,,,,-28.709,173
+#NAME?,Education,Tertiary education,Higher education (502),"Federal Perkins Loan, Negative Subsidies",-0.648,b,,,,-0.648,174
+#NAME?,Education,Tertiary education,Higher education (502),National Technical Institute for the Deaf,0.063,b,,,,0.063,175
+#NAME?,Education,Tertiary education,Higher education (502),Gallaudet University,0.124,b,,,,0.124,176
+#NAME?,Education,Tertiary education,Higher education (502),Higher Education,0.361,b,,,,0.361,177
+#NAME?,Education,Tertiary education,Higher education (502),Higher Education,1.554,b,,,,1.554,178
+#NAME?,Education,Tertiary education,Higher education (502),Higher Education,0.444,b,,,,0.444,179
+#NAME?,Education,Tertiary education,Higher education (502),Howard University,0.234,b,,,,0.234,180
+#NAME?,Education,Tertiary education,Higher education (502),Student Financial Assistance,24.105,b,,,,24.105,181
+#NAME?,Education,Tertiary education,Higher education (502),Student Financial Assistance,13.553,b,,,,13.553,182
+#NAME?,Education,Tertiary education,Higher education (502),Student Aid Administration,1.041,b,,,,1.041,183
+#NAME?,Education,Tertiary education,Higher education (502),Student Aid Administration,0.29,b,,,,0.29,184
+#NAME?,Education,Tertiary education,Higher education (502),Federal Family Education Loan Liquidating Account,-0.335,b,,,,-0.335,185
+#NAME?,Education,Tertiary education,Higher education (502),Federal Student Loan Reserve Fund,0.244,b,,,,0.244,186
+#NAME?,Education,Tertiary education,Current Operations  Higher Education Auxiliary Enterprises (E16),,0,g,0,21.7,2.2,24,187
+#NAME?,Education,Tertiary education,Current Operations  Other Higher Education (E18),,0,g,0,170.3,35.7,206,188
+#NAME?,Education,Tertiary education,Construction  Higher Education  Auxiliary Enterprises (F16),,0,g,0,4,0,4,189
+#NAME?,Education,Tertiary education,Construction  Other Higher Education (F18),,0,g,0,18.2,4.2,22.4,190
+#NAME?,Education,Tertiary education,Other Capital Outlay  Higher Education  Auxiliary Enterprises (G16),,0,g,0,0.3,0,0.3,191
+#NAME?,Education,Tertiary education,Other Capital Outlay  Other Higher Education (G18),,0,g,0,5.1,1,6,192
+#NAME?,Education,Education not definable by level,General science and basic research (251),Science,6.47,b,,,,6.47,193
+#NAME?,Education,Education not definable by level,General science and basic research (251),Research and Related Activities,5.864,b,,,,5.864,194
+#NAME?,Education,Education not definable by level,General science and basic research (251),Education and Human Resources,0.88,b,,,,0.88,195
+#NAME?,Education,Education not definable by level,General science and basic research (251),Education and Human Resources,0.15,b,,,,0.15,196
+#NAME?,Education,Education not definable by level,General science and basic research (251),Agency Operations and Award Management,0.296,b,,,,0.296,197
+#NAME?,Education,Education not definable by level,General science and basic research (251),Major Research Equipment and Facilities Construction,0.254,b,,,,0.254,198
+--Space flight (253),Education,Education not definable by level,Space flight (253),,0,,0,0,0,0,199
+"--Space, science, applications, and technology (254)",Education,Education not definable by level,"Space, science, applications, and technology (254)",,0,,0,0,0,0,200
+--Supporting space activities (255),Education,Education not definable by level,Supporting space activities (255),,0,,0,0,0,0,201
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Institute of Education Sciences,0.074,b,,,,0.074,202
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Institute of Education Sciences,0.476,b,,,,0.476,203
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Program Administration,0.452,b,,,,0.452,204
+#NAME?,Education,Education not definable by level,Research and general education aids (503),"Salaries and Expenses, Library of Congress",0.409,b,,,,0.409,205
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Books for the Blind and Physically Handicapped: Salaries and Expenses,0.053,b,,,,0.053,206
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Corporation for Public Broadcasting,0.445,b,,,,0.445,207
+#NAME?,Education,Education not definable by level,Research and general education aids (503),National Endowment for the Arts: Grants and Administration,0.107,b,,,,0.107,208
+#NAME?,Education,Education not definable by level,Research and general education aids (503),National Endowment for the Humanities: Grants and Administration,0.159,b,,,,0.159,209
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Salaries and Expenses,0.664,b,,,,0.664,210
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Facilities Capital,0.158,b,,,,0.158,211
+#NAME?,Education,Education not definable by level,Research and general education aids (503),"Salaries and Expenses, National Gallery of Art",0.129,b,,,,0.129,212
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Holocaust Memorial Museum,0.052,b,,,,0.052,213
+#NAME?,Education,Education not definable by level,Research and general education aids (503),Office of Museum and Library Services: Grants and Administration,0.26,b,,,,0.26,214
+#NAME?,Education,Education not definable by level,Training and employment (504),American Jobs Act,12.147,b,,,,12.147,215
+#NAME?,Education,Education not definable by level,Training and employment (504),Program Administration,0.102,b,,,,0.102,216
+#NAME?,Education,Education not definable by level,Training and employment (504),Training and Employment Services,2.919,b,,,,2.919,217
+#NAME?,Education,Education not definable by level,Training and employment (504),Training and Employment Services,0.612,b,,,,0.612,218
+#NAME?,Education,Education not definable by level,Training and employment (504),Training and Employment Services,0.156,b,,,,0.156,219
+#NAME?,Education,Education not definable by level,Training and employment (504),Community Service Employment for Older Americans,0.351,b,,,,0.351,220
+#NAME?,Education,Education not definable by level,Training and employment (504),State Unemployment Insurance and Employment Service Operations,0.078,b,,,,0.078,221
+#NAME?,Education,Education not definable by level,Training and employment (504),Office of Job Corps,1.854,b,,,,1.854,222
+#NAME?,Education,Education not definable by level,Training and employment (504),TAA Community College and Career Training Grant Fund,0.632,b,,,,0.632,223
+#NAME?,Education,Education not definable by level,Training and employment (504),Federal Unemployment Benefits and Allowances,0.793,b,,,,0.793,224
+#NAME?,Education,Education not definable by level,Training and employment (504),Unemployment Trust Fund,0.925,b,,,,0.925,225
+#NAME?,Education,Education not definable by level,Training and employment (504),Unemployment Trust Fund,0.182,b,,,,0.182,226
+#NAME?,Education,Education not definable by level,Training and employment (504),Payment in Lieu of Tax Credit for New Jobs and Wage Increases,0.615,b,,,,0.615,227
+#NAME?,Education,Education not definable by level,Other labor services (505),Salaries and Expenses,0.115,b,,,,0.115,228
+#NAME?,Education,Education not definable by level,Other labor services (505),Salaries and Expenses,0.233,b,,,,0.233,229
+#NAME?,Education,Education not definable by level,Other labor services (505),Salaries and Expenses,0.549,b,,,,0.549,230
+#NAME?,Education,Education not definable by level,Other labor services (505),Salaries and Expenses,0.101,b,,,,0.101,231
+#NAME?,Education,Education not definable by level,Other labor services (505),Office of the Inspector General,0.082,b,,,,0.082,232
+#NAME?,Education,Education not definable by level,Other labor services (505),Salaries and Expenses,0.357,b,,,,0.357,233
+#NAME?,Education,Education not definable by level,Other labor services (505),Salaries and Expenses,0.288,b,,,,0.288,234
+#NAME?,Education,Education not definable by level,Social services (506),Rehabilitation Services and Disability Research,0.137,b,,,,0.137,235
+#NAME?,Education,Education not definable by level,Social services (506),Rehabilitation Services and Disability Research,0.215,b,,,,0.215,236
+#NAME?,Education,Education not definable by level,Social services (506),Rehabilitation Services and Disability Research,3.292,b,,,,3.292,237
+#NAME?,Education,Education not definable by level,Social services (506),Salaries and Expenses,0.084,b,,,,0.084,238
+#NAME?,Education,Education not definable by level,Social services (506),Payment to National Service Trust Fund,0.209,b,,,,0.209,239
+#NAME?,Education,Education not definable by level,Social services (506),Operating Expenses,0.266,b,,,,0.266,240
+#NAME?,Education,Education not definable by level,Social services (506),Operating Expenses,0.536,b,,,,0.536,241
+#NAME?,Education,Education not definable by level,Social services (506),"Payment from the General Fund, National Service Trust Fund",-0.209,b,,,,-0.209,242
+#NAME?,Education,Education not definable by level,Social services (506),Gifts and Contributions,0.181,b,,,,0.181,243
+#NAME?,Education,Education not definable by level,Social services (506),Gifts and Contributions,0.068,b,,,,0.068,244
+#NAME?,Education,Education not definable by level,Social services (506),Supporting Healthy Families and Adolescent Development,0.063,b,,,,0.063,245
+#NAME?,Education,Education not definable by level,Social services (506),Supporting Healthy Families and Adolescent Development,0.47,b,,,,0.47,246
+#NAME?,Education,Education not definable by level,Social services (506),Social Services Block Grant,1.792,b,,,,1.792,247
+#NAME?,Education,Education not definable by level,Social services (506),Children and Families Services Programs,9.463,b,,,,9.463,248
+#NAME?,Education,Education not definable by level,Social services (506),Children and Families Services Programs,0.379,b,,,,0.379,249
+#NAME?,Education,Education not definable by level,Social services (506),Aging Services Programs,1.756,b,,,,1.756,250
+"--Current Operations - Educational Scholarships, Assistance, and Subsidies (Disc. 2005) (E19)",Education,Education not definable by level,"Current Operations  Educational Scholarships, Assistance, and Subsidies (Disc. 2005) (E19)",,0,,0,0,0,0,251
+#NAME?,Education,Education not definable by level,Current Operations  State Education  Other (E21),,0,g,0,16.4,0,16.4,252
+#NAME?,Education,Education not definable by level,Current Operations  Libraries (E52),,0,g,0,0.4,9.4,9.8,253
+#NAME?,Education,Education not definable by level,Construction  State Education  Other (F21),,0,g,0,0.9,0,0.9,254
+#NAME?,Education,Education not definable by level,Construction  Libraries (F52),,0,g,0,0,0.8,0.8,255
+#NAME?,Education,Education not definable by level,Other Capital Outlay  State Education  Other (G21),,0,g,0,0.2,0,0.2,256
+#NAME?,Education,Education not definable by level,Other Capital Outlay  Libraries (G52),,0,g,0,0,0.5,0.6,257
+#NAME?,Education,Education not definable by level,Assistance and Subsidies  State Scholarships and Other Subsidies  Education (J19),,0,g,0,26.9,0,26.9,258
+#NAME?,Education,Subsidiary services to education,,,0,,0,0,0,0,259
+-R&D Education,Education,R&D Education,,,0,,0,0,0,0,260
+#NAME?,Education,Education n.e.c.,,,0,,0,0,0,0,261
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Recoveries under the Foreign Military Sales Program, Navy",-0.156,b,,,,-0.156,262
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"General Fund Proprietary Receipts, not Otherwise Classified, Navy",-0.082,b,,,,-0.082,263
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"General Fund Proprietary Receipts, not Otherwise Classified, Army",-0.068,b,,,,-0.068,264
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"General Fund Proprietary Receipts, not Otherwise Classified, Air Force",-0.097,b,,,,-0.097,265
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"General Fund Proprietary Receipts, not Otherwise Classified, Defense Agencies",-0.087,b,,,,-0.087,266
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Contributions for Burdensharing and Other Cooperative Activities (Kuwait),-0.213,b,,,,-0.213,267
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Contributions for Burdensharing and Other Cooperative Activities (Japan),-0.322,b,,,,-0.322,268
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Contributions for Burdensharing and Other Cooperative Activities (So. Korea),-0.37,b,,,,-0.37,269
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Payment to Voluntary Separation Incentive Fund,-0.055,b,,,,-0.055,270
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Defensewide",41.696,b,,,,41.696,271
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Drug Interdiction and CounterDrug Activities,1.482,b,,,,1.482,272
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Office of the Inspector General,0.304,b,,,,0.304,273
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Marine Corps",9.65,b,,,,9.65,274
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Marine Corps Reserve",0.309,b,,,,0.309,275
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Department of Defense Acquisition Workforce Development Fund,0.251,b,,,,0.251,276
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Defense Health Program,33.605,b,,,,33.605,277
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Cooperative Threat Reduction Account,0.393,b,,,,0.393,278
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Navy",46.692,b,,,,46.692,279
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Navy Reserve",1.349,b,,,,1.349,280
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Army",76.108,b,,,,76.108,281
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Army National Guard",7.377,b,,,,7.377,282
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Army Reserve",3.212,b,,,,3.212,283
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Afghanistan Security Forces Fund,8.809,b,,,,8.809,284
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Iraq Security Forces Fund,0.465,b,,,,0.465,285
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Afghanistan Infrastructure Fund,0.356,b,,,,0.356,286
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Air Force",50.33,b,,,,50.33,287
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Air Force Reserve",3.307,b,,,,3.307,288
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operation and Maintenance, Air National Guard",6.064,b,,,,6.064,289
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Military Intelligence Program Transfer Fund,0.078,b,,,,0.078,290
+#NAME?,Defense,Military defense,Department of Defense  Military (051),The Department of Defense Environmental Restoration Accounts,0.951,b,,,,0.951,291
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Environmental Restoration, Formerly Used Defense Sites",0.225,b,,,,0.225,292
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Overseas Humanitarian, Disaster, and Civic Aid",0.162,b,,,,0.162,293
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Allied Contributions and Cooperation Account,0.904,b,,,,0.904,294
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Procurement, Marine Corps",2.598,b,,,,2.598,295
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Mine Resistant Ambush Protected Vehicle Fund,0.78,b,,,,0.78,296
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Aircraft Procurement, Navy",18.601,b,,,,18.601,297
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Weapons Procurement, Navy",3.32,b,,,,3.32,298
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Procurement of Ammunition, Navy and Marine Corps",1.322,b,,,,1.322,299
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Shipbuilding and Conversion, Navy",14.034,b,,,,14.034,300
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Other Procurement, Navy",5.595,b,,,,5.595,301
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Aircraft Procurement, Army",6.818,b,,,,6.818,302
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Missile Procurement, Army",1.694,b,,,,1.694,303
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Procurement of Weapons and Tracked Combat Vehicles, Army",3.114,b,,,,3.114,304
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Procurement of Ammunition, Army",2.946,b,,,,2.946,305
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Other Procurement, Army",12.416,b,,,,12.416,306
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Joint Improvised Explosive Device Defeat Fund,2.052,b,,,,2.052,307
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Procurement, Defensewide",4.658,b,,,,4.658,308
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Aircraft Procurement, Air Force",15.824,b,,,,15.824,309
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Procurement of Ammunition, Air Force",0.928,b,,,,0.928,310
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Missile Procurement, Air Force",5.747,b,,,,5.747,311
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Joint Urgent Operational Needs Fund,0.065,b,,,,0.065,312
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Other Procurement, Air Force",19.494,b,,,,19.494,313
+#NAME?,Defense,Military defense,Department of Defense  Military (051),National Guard and Reserve Equipment,0.999,b,,,,0.999,314
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Defense Production Act Purchases,0.136,b,,,,0.136,315
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Chemical Agents and Munitions Destruction, Defense",1.417,b,,,,1.417,316
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Research, Development, Test and Evaluation, Navy",17.416,b,,,,17.416,317
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Research, Development, Test and Evaluation, Army",9.579,b,,,,9.579,318
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Research, Development, Test and Evaluation, Air Force",26.151,b,,,,26.151,319
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Research, Development, Test and Evaluation, Defensewide",18.492,b,,,,18.492,320
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Operational Test and Evaluation, Defense",0.182,b,,,,0.182,321
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Construction, Navy and Marine Corps",3.267,b,,,,3.267,322
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Construction, Navy Reserve",0.083,b,,,,0.083,323
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Construction, Army",7.286,b,,,,7.286,324
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Construction, Army National Guard",0.723,b,,,,0.723,325
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Construction, Army Reserve",0.342,b,,,,0.342,326
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Construction, Air Force",1.492,b,,,,1.492,327
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Construction, Air National Guard",0.251,b,,,,0.251,328
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Chemical Demilitarization Construction, Defensewide",0.12,b,,,,0.12,329
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Construction, Defensewide",3.621,b,,,,3.621,330
+---Department of Defense Base Closure Account 1990,Defense,Military defense,Department of Defense  Military (051),Department of Defense Base Closure Account 1990,0.365,b,,,,0.365,331
+---Department of Defense Base Closure Account 2005,Defense,Military defense,Department of Defense  Military (051),Department of Defense Base Closure Account 2005,1.337,b,,,,1.337,332
+#NAME?,Defense,Military defense,Department of Defense  Military (051),North Atlantic Treaty Organization Security Investment Program,0.472,b,,,,0.472,333
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Family Housing Construction, Army",0.144,b,,,,0.144,334
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Family Housing Operation and Maintenance, Army",0.582,b,,,,0.582,335
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Family Housing Construction, Navy and Marine Corps",0.098,b,,,,0.098,336
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Family Housing Operation and Maintenance, Navy and Marine Corps",0.378,b,,,,0.378,337
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Family Housing Construction, Air Force",0.301,b,,,,0.301,338
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Family Housing Operation and Maintenance, Air Force",0.48,b,,,,0.48,339
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Family Housing Operation and Maintenance, DefenseWide",0.051,b,,,,0.051,340
+#NAME?,Defense,Military defense,Department of Defense  Military (051),National Defense Sealift Fund,1.543,b,,,,1.543,341
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Working Capital Fund, Army",1.609,b,,,,1.609,342
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Working Capital Fund, Navy",-0.051,b,,,,-0.051,343
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Working Capital Fund, Air Force",0.51,b,,,,0.51,344
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Working Capital Fund, Defense Commissary Agency",1.409,b,,,,1.409,345
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Working Capital Fund, DefenseWide",1.097,b,,,,1.097,346
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Pentagon Reservation Maintenance Revolving Fund,0.135,b,,,,0.135,347
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Voluntary Separation Incentive Fund,0.108,b,,,,0.108,348
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Host Nation Support Fund for Relocation,0.274,b,,,,0.274,349
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, Navy",1.184,b,,,,1.184,350
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, Marine Corps",0.739,b,,,,0.739,351
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, Reserve Personnel, Navy",0.142,b,,,,0.142,352
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, Reserve Personnel, Marine Corps",0.081,b,,,,0.081,353
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, Army",2.052,b,,,,2.052,354
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, Reserve Personnel, Army",0.428,b,,,,0.428,355
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, National Guard Personnel, Army",0.746,b,,,,0.746,356
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, Air Force",1.211,b,,,,1.211,357
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, Reserve Personnel, Air Force",0.143,b,,,,0.143,358
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"MedicareEligible Retiree Health Fund Contribution, National Guard Personnel, Air Force",0.227,b,,,,0.227,359
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Personnel, Marine Corps",14.037,b,,,,14.037,360
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Reserve Personnel, Marine Corps",0.686,b,,,,0.686,361
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Reserve Personnel, Navy",1.917,b,,,,1.917,362
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Personnel, Navy",27.827,b,,,,27.827,363
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Personnel, Army",49.731,b,,,,49.731,364
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"National Guard Personnel, Army",8.813,b,,,,8.813,365
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Reserve Personnel, Army",4.518,b,,,,4.518,366
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Military Personnel, Air Force",29.464,b,,,,29.464,367
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"Reserve Personnel, Air Force",1.738,b,,,,1.738,368
+#NAME?,Defense,Military defense,Department of Defense  Military (051),"National Guard Personnel, Air Force",3.228,b,,,,3.228,369
+#NAME?,Defense,Military defense,Department of Defense  Military (051),Concurrent Receipt Accrual Payments to the Military Retirement Fund,6.95,b,,,,6.95,370
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Energy Employees Occupational Illness Compensation Fund,1.26,b,,,,1.26,371
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),"Administrative Expenses, Energy Employees Occupational Illness Compensation Fund",0.129,b,,,,0.129,372
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Other Defense Activities,0.964,b,,,,0.964,373
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Defense Environmental Cleanup,6.186,b,,,,6.186,374
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Nuclear Energy,0.07,b,,,,0.07,375
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Weapons Activities,7.753,b,,,,7.753,376
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Defense Nuclear Nonproliferation,2.669,b,,,,2.669,377
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Office of the Administrator,0.432,b,,,,0.432,378
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Naval Reactors,1.06,b,,,,1.06,379
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),Formerly Utilized Sites Remedial Action Program,0.108,b,,,,0.108,380
+#NAME?,Defense,Military defense,Atomic energy defense activities (053),CDCWide Activities and Program Support,0.055,b,,,,0.055,381
+#NAME?,Defense,Military defense,Defenserelated activities (054),"Payment from the General Fund, Radiation Exposure Compensation Trust Fund",-0.06,b,,,,-0.06,382
+#NAME?,Defense,Military defense,Defenserelated activities (054),Salaries and Expenses,5.041,b,,,,5.041,383
+#NAME?,Defense,Military defense,Defenserelated activities (054),Payment to Radiation Exposure Compensation Trust Fund,0.06,b,,,,0.06,384
+#NAME?,Defense,Military defense,Defenserelated activities (054),Radiation Exposure Compensation Trust Fund,0.06,b,,,,0.06,385
+#NAME?,Defense,Military defense,Defenserelated activities (054),Payment to Military Retirement Fund,67.179,b,,,,67.179,386
+#NAME?,Defense,Military defense,Defenserelated activities (054),"Federal Contributions, Military Retirement Fund",-67.179,b,,,,-67.179,387
+#NAME?,Defense,Military defense,Defenserelated activities (054),"Federal Contributions, DoD MedicareEligible Retiree Health Care Fund",-3.633,b,,,,-3.633,388
+#NAME?,Defense,Military defense,Defenserelated activities (054),Payment to Department of Defense MedicareEligible Retiree Health Care Fund,3.633,b,,,,3.633,389
+#NAME?,Defense,Military defense,Defenserelated activities (054),Maritime Security Program,0.184,b,,,,0.184,390
+#NAME?,Defense,Military defense,Defenserelated activities (054),Operating Expenses,0.342,b,,,,0.342,391
+#NAME?,Defense,Military defense,Defenserelated activities (054),Infrastructure Protection and Information Security,1.259,b,,,,1.259,392
+#NAME?,Defense,Military defense,Defenserelated activities (054),Salaries and Expenses,0.066,b,,,,0.066,393
+#NAME?,Defense,Military defense,Defenserelated activities (054),Central Intelligence Agency Retirement and Disability System Fund,0.514,b,,,,0.514,394
+#NAME?,Defense,Military defense,Defenserelated activities (054),Research and Related Activities,0.054,b,,,,0.054,395
+#NAME?,Defense,Military defense,Defenserelated activities (054),Intelligence Community Management Account,0.553,b,,,,0.553,396
+#NAME?,Defense,Civil defense,,,0,,0,0,0,0,397
+#NAME?,Defense,Veterans,Income security for veterans (701),"NSLI Fund, Premium and Other Receipts",-0.069,b,,,,-0.069,398
+#NAME?,Defense,Veterans,Income security for veterans (701),Compensation and Pensions,0.221,b,,,,0.221,399
+#NAME?,Defense,Veterans,Income security for veterans (701),Veterans Insurance and Indemnities,0.105,b,,,,0.105,400
+#NAME?,Defense,Veterans,Income security for veterans (701),Compensation,59.386,b,,,,59.386,401
+#NAME?,Defense,Veterans,Income security for veterans (701),Pensions benefits,4.914,b,,,,4.914,402
+#NAME?,Defense,Veterans,Income security for veterans (701),National Service Life Insurance Fund,1.081,b,,,,1.081,403
+#NAME?,Defense,Veterans,Income security for veterans (701),Veterans Special Life Insurance Fund,0.053,b,,,,0.053,404
+#NAME?,Defense,Veterans,"Veterans education, training, and rehabilitation (702)",Veterans Employment and Training,0.066,b,,,,0.066,405
+#NAME?,Defense,Veterans,"Veterans education, training, and rehabilitation (702)","Employing Agency Contributions, Education Benefits Fund",-0.264,b,,,,-0.264,406
+#NAME?,Defense,Veterans,"Veterans education, training, and rehabilitation (702)",Education Benefits Fund,0.428,b,,,,0.428,407
+"---Contributions from Military Personnel, Veteran's Educational Assistance Act of 1984",Defense,Veterans,"Veterans education, training, and rehabilitation (702)","Contributions from Military Personnel, Veteran's Educational Assistance Act of 1984",-0.139,b,,,,-0.139,408
+#NAME?,Defense,Veterans,"Veterans education, training, and rehabilitation (702)",Readjustment Benefits,13.716,b,,,,13.716,409
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),"Pharmaceutical Copayments, MCCF",-0.759,b,,,,-0.759,410
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),"First Party Collections, MCCF",-0.188,b,,,,-0.188,411
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),"Third Party Collections, MCCF",-1.917,b,,,,-1.917,412
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),"Compensated Work Therapy, MCCF",-0.057,b,,,,-0.057,413
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),Medical Support and Compliance,5.637,b,,,,5.637,414
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),Medical Services,0.765,b,,,,0.765,415
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),Medical Services,42.775,b,,,,42.775,416
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),Medical and Prosthetic Research,0.573,b,,,,0.573,417
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),Medical Facilities,5.282,b,,,,5.282,418
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),DODVA Health Care Sharing Incentive Fund,0.08,b,,,,0.08,419
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),"Construction, Major Projects",0.945,b,,,,0.945,420
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),"Construction, Minor Projects",0.421,b,,,,0.421,421
+#NAME?,Defense,Veterans,Hospital and medical care for veterans (703),Grants for Construction of State Extended Care Facilities,0.074,b,,,,0.074,422
+#NAME?,Defense,Veterans,Veterans housing (704),Housing Negative Subsidies,-0.083,b,,,,-0.083,423
+#NAME?,Defense,Veterans,Veterans housing (704),Veterans Housing Benefit Program Fund,0.158,b,,,,0.158,424
+#NAME?,Defense,Veterans,Veterans housing (704),Veterans Housing Benefit Program Fund,0.186,b,,,,0.186,425
+#NAME?,Defense,Veterans,Other veterans benefits and services (705),Salaries and Expenses,0.074,b,,,,0.074,426
+#NAME?,Defense,Veterans,Other veterans benefits and services (705),National Cemetery Administration,0.253,b,,,,0.253,427
+#NAME?,Defense,Veterans,Other veterans benefits and services (705),General Administration,2.501,b,,,,2.501,428
+#NAME?,Defense,Veterans,Other veterans benefits and services (705),Information Technology Systems,3.716,b,,,,3.716,429
+#NAME?,Defense,Veterans,Other veterans benefits and services (705),Office of Inspector General,0.11,b,,,,0.11,430
+#NAME?,Defense,Veterans,Other veterans benefits and services (705),Supply Fund,-0.1,b,,,,-0.1,431
+--Current Operations - Veterans Bonuses (Disc. 2005) (E84),Defense,Veterans,Current Operations  Veterans Bonuses (Disc. 2005) (E84),,0,,0,0,0,0,432
+--Current Operations - State Veterans' Services (E85),Defense,Veterans,Current Operations  State Veterans' Services (E85),,0,g,0,0.4,0,0.4,433
+--Construction - State Veterans' Services (F85),Defense,Veterans,Construction  State Veterans' Services (F85),,0,g,0,0.1,0,0.1,434
+--Other Capital Outlay - State Veterans' Services (G85),Defense,Veterans,Other Capital Outlay  State Veterans' Services (G85),,0,g,0,0.6,0,0.6,435
+#NAME?,Defense,Veterans,Assistance and Subsidies  Other Veterans Services (J85),,0,g,0,0.1,0,0.1,436
+#NAME?,Defense,Foreign military aid,International security assistance (152),Peacekeeping Operations,0.416,b,,,,0.416,437
+#NAME?,Defense,Foreign military aid,International security assistance (152),Economic Support Fund,5.949,b,,,,5.949,438
+#NAME?,Defense,Foreign military aid,International security assistance (152),"Nonproliferation, Antiterrorism, Demining, and Related Programs",0.604,b,,,,0.604,439
+#NAME?,Defense,Foreign military aid,International security assistance (152),International Military Education and Training,0.104,b,,,,0.104,440
+#NAME?,Defense,Foreign military aid,International security assistance (152),Foreign Military Financing Program,6.556,b,,,,6.556,441
+#NAME?,Defense,Foreign military aid,International security assistance (152),Pakistan Counterinsurgency Capability Fund,0.64,b,,,,0.64,442
+#NAME?,Defense,Foreign military aid,International security assistance (152),Foreign Military Loan Liquidating Account,-0.173,b,,,,-0.173,443
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),International Narcotics Control and Law Enforcement,2.836,b,,,,2.836,444
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Global Health Programs,8.693,b,,,,8.693,445
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Democracy Fund,0.149,b,,,,0.149,446
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Migration and Refugee Assistance,1.606,b,,,,1.606,447
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Andean Counterdrug Programs,0.081,b,,,,0.081,448
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Middle East and North Africa Incentive Fund,0.193,b,,,,0.193,449
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),United States Emergency Refugee and Migration Assistance Fund,0.062,b,,,,0.062,450
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),International Organizations and Programs,0.399,b,,,,0.399,451
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Global Food Security Fund,0.134,b,,,,0.134,452
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Contribution to the InterAmerican Development Bank,0.102,b,,,,0.102,453
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Contribution to the International Development Association,1.357,b,,,,1.357,454
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Contribution to the Asian Development Bank,0.214,b,,,,0.214,455
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Contribution to the International Bank for Reconstruction and Development,0.316,b,,,,0.316,456
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Contribution to the African Development Bank,0.218,b,,,,0.218,457
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Clean Technology Fund,0.185,b,,,,0.185,458
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Debt Restructuring,0.183,b,,,,0.183,459
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Operating Expenses of the Agency for International Development,1.314,b,,,,1.314,460
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),"Operating Expenses, Office of Inspector General",0.062,b,,,,0.062,461
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Development Assistance Program,2.365,b,,,,2.365,462
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),HIV/AIDS Working Capital Fund,0.08,b,,,,0.08,463
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),International Disaster Assistance,0.916,b,,,,0.916,464
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Development Credit Authority Program Account,0.059,b,,,,0.059,465
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Capital Investment Fund of the United States Agency for International Development.,0.137,b,,,,0.137,466
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),"Assistance for Europe, Eurasia and Central Asia",0.576,b,,,,0.576,467
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Economic Assistance Loans Liquidating Account,-0.344,b,,,,-0.344,468
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Overseas Private Investment Corporation Program Account,0.054,b,,,,0.054,469
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),"Overseas Private Investment Corporation Loans, Negative Subsidies",-0.1,b,,,,-0.1,470
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Overseas Private Investment Corporation Noncredit Account,-0.175,b,,,,-0.175,471
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Trade and Development Agency,0.061,b,,,,0.061,472
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Peace Corps,0.375,b,,,,0.375,473
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Millennium Challenge Corporation,1.484,b,,,,1.484,474
+"---Expenses, Public Law 480, Foreign Assistance Programs, Agriculture Liquidating Account",Defense,Foreign economic aid,International development and humanitarian assistance (151),"Expenses, Public Law 480, Foreign Assistance Programs, Agriculture Liquidating Account",-0.276,b,,,,-0.276,475
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),Food for Peace Title II Grants,1.437,b,,,,1.437,476
+#NAME?,Defense,Foreign economic aid,International development and humanitarian assistance (151),McGovernDole International Food for Education and Child Nutrition Program,0.202,b,,,,0.202,477
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),"Federal Contributions, Foreign Service Retirement and Disability Fund",-0.286,b,,,,-0.286,478
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Contributions for International Peacekeeping Activities,2.05,b,,,,2.05,479
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Contributions to International Organizations,1.569,b,,,,1.569,480
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Diplomatic and Consular Programs,10.852,b,,,,10.852,481
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Capital Investment Fund,0.082,b,,,,0.082,482
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Conflict Stabilization Operations,0.071,b,,,,0.071,483
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Working Capital Fund,0.276,b,,,,0.276,484
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Office of the Inspector General,0.13,b,,,,0.13,485
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),"Embassy Security, Construction, and Maintenance",1.287,b,,,,1.287,486
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Payment to Foreign Service Retirement and Disability Fund,0.286,b,,,,0.286,487
+#NAME?,Defense,Foreign economic aid,Conduct of foreign affairs (153),Salaries and Expenses,0.083,b,,,,0.083,488
+#NAME?,Defense,Foreign economic aid,Foreign information and exchange activities (154),National Endowment for Democracy,0.135,b,,,,0.135,489
+#NAME?,Defense,Foreign economic aid,Foreign information and exchange activities (154),Educational and Cultural Exchange Programs,0.652,b,,,,0.652,490
+#NAME?,Defense,Foreign economic aid,Foreign information and exchange activities (154),International Broadcasting Operations,0.717,b,,,,0.717,491
+#NAME?,Defense,Foreign economic aid,International financial programs (155),Exchange Stabilization Fund,-0.296,b,,,,-0.296,492
+#NAME?,Defense,Foreign economic aid,International financial programs (155),"Deposits, Advances, Foreign Military Sales Trust Fund",-27.743,b,,,,-27.743,493
+#NAME?,Defense,Foreign economic aid,International financial programs (155),Foreign Military Sales Trust Fund,30.867,b,,,,30.867,494
+#NAME?,Defense,Foreign economic aid,International financial programs (155),ExportImport Bank Loans Program Account,-0.403,b,,,,-0.403,495
+#NAME?,Defense,Foreign economic aid,International financial programs (155),"ExportImport Bank Loans, Negative Subsidies",-0.364,b,,,,-0.364,496
+--International cooperation (156),Defense,Foreign economic aid,International cooperation (156),,0,,0,0,0,0,497
+-R&D Defence,Defense,R&D Defence,,,0,,0,0,0,0,498
+--Defense Overseas Contingency Operations (059),Defense,Defence n.e.c.,Defense Overseas Contingency Operations (059),,0,,0,0,0,0,499
+#NAME?,Welfare,Family and children,Food and nutrition assistance (605),Emergency Food and Shelter,0.1,b,,,,0.1,500
+"---Funds for Strengthening Markets, Income, and Supply (section 32)",Welfare,Family and children,Food and nutrition assistance (605),"Funds for Strengthening Markets, Income, and Supply (section 32)",1.044,b,,,,1.044,501
+#NAME?,Welfare,Family and children,Food and nutrition assistance (605),Supplemental Nutrition Assistance Program,7.034,b,,,,7.034,502
+#NAME?,Welfare,Family and children,Food and nutrition assistance (605),Supplemental Nutrition Assistance Program,75.716,b,,,,75.716,503
+#NAME?,Welfare,Family and children,Food and nutrition assistance (605),Commodity Assistance Program,0.254,b,,,,0.254,504
+#NAME?,Welfare,Family and children,Food and nutrition assistance (605),Nutrition Programs Administration,0.146,b,,,,0.146,505
+#NAME?,Welfare,Family and children,Food and nutrition assistance (605),"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",7.427,b,,,,7.427,506
+#NAME?,Welfare,Family and children,Food and nutrition assistance (605),Child Nutrition Programs,19.768,b,,,,19.768,507
+#NAME?,Welfare,Family and children,Food and nutrition assistance (605),Child Nutrition Programs,0.191,b,,,,0.191,508
+"--Current Operations - Welfare, Federal Categorical Assistance Programs (Disc. 2005) (E67)",Welfare,Family and children,"Current Operations  Welfare, Federal Categorical Assistance Programs (Disc. 2005) (E67)",,0,,0,0,0,0,509
+"--Current Operations - Welfare, Cash Assistance - Other (Disc. 2005) (E68)",Welfare,Family and children,"Current Operations  Welfare, Cash Assistance  Other (Disc. 2005) (E68)",,0,,0,0,0,0,510
+#NAME?,Welfare,Family and children,"Assistance and Subsidies  Public Welfare, Federal Categorical Assistance Programs (J67)",,0,g,0,7.6,9.3,16.9,511
+#NAME?,Welfare,Family and children,"Assistance and Subsidies  Public Welfare, Cash Assistance Programs  Other (J68)",,0,g,0,6.8,2.6,9.4,512
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),"Deposits by Federal Agencies to the Federal Employees Compensation Account, Unemployment Trust Fund",-1.16,b,,,,-1.16,513
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),"Payments from the General Fund for Administrative Cost for Extended Unemployment Benefit, Unemployment Trust Fund",-19.351,b,,,,-19.351,514
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),Payments to the Unemployment Trust Fund,19.351,b,,,,19.351,515
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),State Unemployment Insurance and Employment Service Operations,0.379,b,,,,0.379,516
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),Federal Unemployment Benefits and Allowances,0.521,b,,,,0.521,517
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),Unemployment Trust Fund,1.591,b,,,,1.591,518
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),Unemployment Trust Fund,1.469,b,,,,1.469,519
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),Unemployment Trust Fund,0.766,b,,,,0.766,520
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),Unemployment Trust Fund,73.742,b,,,,73.742,521
+#NAME?,Welfare,Unemployment,Unemployment compensation (603),Railroad Unemployment Insurance Trust Fund,0.1,b,,,,0.1,522
+#NAME?,Welfare,Unemployment,Federal Intergovernmental  Employment Security Administration (B22),,0,g,-5.5,0,0,-5.5,523
+#NAME?,Welfare,Unemployment,Current Operations  Social Insurance Administration (E22),,0,g,0,5.2,0,5.2,524
+#NAME?,Welfare,Unemployment,Construction  Social Insurance Administration (F22),,0,g,0,0,0,0,525
+#NAME?,Welfare,Unemployment,Other Capital Outlay  Social Insurance Administration (G22),,0,g,0,0,0,0,526
+#NAME?,Welfare,Unemployment trust,Unemployment Compensation  Benefit Payments (Y05),,0,g,0,27.4,0.1,27.5,527
+#NAME?,Welfare,Unemployment trust,Unemployment Compensation  Extended and Special Payments (Y06),,0,g,0,48.1,0.2,48.2,528
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Salaries and Expenses,0.183,b,,,,0.183,529
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Pension Benefit Guaranty Corporation Fund,-1.575,b,,,,-1.575,530
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Special Benefits for Disabled Coal Miners,0.168,b,,,,0.168,531
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Black Lung Disability Trust Fund,0.309,b,,,,0.309,532
+---Special Workers' Compensation Expenses,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Special Workers' Compensation Expenses,0.147,b,,,,0.147,533
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Interest Payments on Repayable Advances to the Black Lung Disability Trust Fund,-0.057,b,,,,-0.057,534
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Payment of Interest on Advances to the Railroad Retirement Board,-0.106,b,,,,-0.106,535
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Federal Payment to the District of Columbia Pension Fund,0.469,b,,,,0.469,536
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),"Federal Contribution, DC Federal Pension Fund",-0.469,b,,,,-0.469,537
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),District of Columbia Federal Pension Fund,0.554,b,,,,0.554,538
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Federal Payments to the Railroad Retirement Accounts,0.544,b,,,,0.544,539
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),"Railroad Social Security Equivalent Benefit Account, Income Tax Credits",-0.211,b,,,,-0.211,540
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),"Railroad Social Security Equivalent Benefit Account, Receipts from Federal Oldage Survivors Ins. Trust Fund",-3.837,b,,,,-3.837,541
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),"Railroad Social Security Equivalent Benefit Account, Receipts from Federal Disability Insurance Trust Fund",-0.485,b,,,,-0.485,542
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Railroad Social Security Equivalent Benefit Account,6.887,b,,,,6.887,543
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),"Payment from the National Railroad Retirement Investment Trust, Rail Industry Pension Fund",-1.983,b,,,,-1.983,544
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),"Federal Payments to Railroad Retirement Trust Funds, Rail Industry Pension Fund",-0.333,b,,,,-0.333,545
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Rail Industry Pension Fund,0.074,b,,,,0.074,546
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),Rail Industry Pension Fund,4.984,b,,,,4.984,547
+#NAME?,Welfare,Workers compensation,General retirement and disability insurance (excluding social security (Disc. 2005) (601),National Railroad Retirement Investment Trust,2.061,b,,,,2.061,548
+#NAME?,Welfare,Workers compensation,Workers Compensation  Benefit Payments (Y14),,0,g,0,12.1,0,12.1,549
+#NAME?,Welfare,Housing,Housing assistance (604),"Troubled Asset Relief Program, Housing Programs",12.148,b,,,,12.148,550
+#NAME?,Welfare,Housing,Housing assistance (604),Housing Personnel Compensation and Benefits,0.399,b,,,,0.399,551
+#NAME?,Welfare,Housing,Housing assistance (604),"Administration, Operations and Management",0.531,b,,,,0.531,552
+#NAME?,Welfare,Housing,Housing assistance (604),Public and Indian Housing Personnel Compensation and Benefits,0.211,b,,,,0.211,553
+#NAME?,Welfare,Housing,Housing assistance (604),Public Housing Operating Fund,4.276,b,,,,4.276,554
+#NAME?,Welfare,Housing,Housing assistance (604),Revitalization of Severely Distressed Public Housing (HOPE VI),0.15,b,,,,0.15,555
+#NAME?,Welfare,Housing,Housing assistance (604),Tenant Based Rental Assistance,19.092,b,,,,19.092,556
+#NAME?,Welfare,Housing,Housing assistance (604),Projectbased Rental Assistance,0.26,b,,,,0.26,557
+#NAME?,Welfare,Housing,Housing assistance (604),Projectbased Rental Assistance,9.22,b,,,,9.22,558
+#NAME?,Welfare,Housing,Housing assistance (604),Public Housing Capital Fund,2.371,b,,,,2.371,559
+#NAME?,Welfare,Housing,Housing assistance (604),Native American Housing Block Grant,0.653,b,,,,0.653,560
+#NAME?,Welfare,Housing,Housing assistance (604),Housing Certificate Fund,0.808,b,,,,0.808,561
+#NAME?,Welfare,Housing,Housing assistance (604),Selfhelp Homeownership Opportunity Program,0.076,b,,,,0.076,562
+#NAME?,Welfare,Housing,Housing assistance (604),Homeless Assistance Grants,0.707,b,,,,0.707,563
+#NAME?,Welfare,Housing,Housing assistance (604),Homeless Assistance Grants,1.204,b,,,,1.204,564
+#NAME?,Welfare,Housing,Housing assistance (604),Home Investment Partnership Program,1.611,b,,,,1.611,565
+#NAME?,Welfare,Housing,Housing assistance (604),Housing Opportunities for Persons with AIDS,0.331,b,,,,0.331,566
+#NAME?,Welfare,Housing,Housing assistance (604),Other Assisted Housing Programs,0.367,b,,,,0.367,567
+#NAME?,Welfare,Housing,Housing assistance (604),Housing for Persons with Disabilities,0.251,b,,,,0.251,568
+#NAME?,Welfare,Housing,Housing assistance (604),Housing for the Elderly,1.005,b,,,,1.005,569
+#NAME?,Welfare,Housing,Housing assistance (604),Affordable Housing Program,0.198,b,,,,0.198,570
+#NAME?,Welfare,Housing,Housing assistance (604),Rental Assistance Program,0.953,b,,,,0.953,571
+#NAME?,Welfare,Housing,Federal Intergovernmental  Housing and Community Development (B50),,0,g,-48.9,0,0,-48.9,572
+#NAME?,Welfare,Housing,Current Operations  Housing and Community Development (E50),,0,g,0,11.4,41.9,53.3,573
+#NAME?,Welfare,Housing,Construction  Housing and Community Development (F50),,0,g,0,0,5.2,5.2,574
+#NAME?,Welfare,Housing,Other Capital Outlay  Housing and Community Development (G50),,0,g,0,0.1,1.2,1.3,575
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Payment Where Earned Income Credit Exceeds Liability for Tax,52.615,b,,,,52.615,576
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Payment Where Child Tax Credit Exceeds Liability for Tax,23.045,b,,,,23.045,577
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Payment Where Alternative Minimum Tax Credit Exceeds Liability for Tax,0.075,b,,,,0.075,578
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Payment Where Adoption Credit Exceeds Liability for Tax,0.355,b,,,,0.355,579
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Receipts from SSI Administrative Fee,-0.139,b,,,,-0.139,580
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Recovery of Beneficiary Overpayments from SSI Program,-3.202,b,,,,-3.202,581
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Supplemental Security Income Program,3.915,b,,,,3.915,582
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Supplemental Security Income Program,54.36,b,,,,54.36,583
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),"State Supplemental Fees, SSI",-0.17,b,,,,-0.17,584
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),State Supplemental Fees,0.157,b,,,,0.157,585
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Federal Share of Child Support Collections,-1.045,b,,,,-1.045,586
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Payments to States for Child Support Enforcement and Family Support Programs,3.873,b,,,,3.873,587
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Low Income Home Energy Assistance,3.338,b,,,,3.338,588
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Refugee and Entrant Assistance,0.722,b,,,,0.722,589
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Refugee and Entrant Assistance,0.108,b,,,,0.108,590
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Payments to States for the Child Care and Development Block Grant,2.452,b,,,,2.452,591
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Contingency Fund,0.393,b,,,,0.393,592
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Payments for Foster Care and Permanency,7.17,b,,,,7.17,593
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Child Care Entitlement to States,3.286,b,,,,3.286,594
+#NAME?,Welfare,Social exclusion n.e.c.,Other income security (609),Temporary Assistance for Needy Families,17.306,b,,,,17.306,595
+---Children's Research and Technical Assistance,Welfare,Social exclusion n.e.c.,Other income security (609),Children's Research and Technical Assistance,0.068,b,,,,0.068,596
+#NAME?,Welfare,Social exclusion n.e.c.,"Current Operations  Public Welfare, Vendor Payments for Other Purposes (E75)",,0,g,0,12.1,1.5,13.5,597
+#NAME?,Welfare,Social exclusion n.e.c.,Current Operations  Public Welfare Institutions (E77),,0,g,0,1.9,4.5,6.4,598
+#NAME?,Welfare,Social exclusion n.e.c.,Current Operations  Public Welfare  Other (E79),,0,g,0,39.6,31.9,71.5,599
+#NAME?,Welfare,Social exclusion n.e.c.,"Construction  Public Welfare, Vendor Payments for Other Purposes (F75)",,0,,0,0,0,0,600
+#NAME?,Welfare,Social exclusion n.e.c.,Construction  Public Welfare Institutions (F77),,0,g,0,0,0,0,601
+#NAME?,Welfare,Social exclusion n.e.c.,Construction  Public Welfare  Other (F79),,0,g,0,0.2,0.1,0.3,602
+#NAME?,Welfare,Social exclusion n.e.c.,"Other Capital Outlay  Public Welfare, Vendor Payments for Other Purposes (G75)",,0,,0,0,0,0,603
+#NAME?,Welfare,Social exclusion n.e.c.,Other Capital Outlay  Public Welfare Institutions (G77),,0,g,0,0,0.1,0.1,604
+#NAME?,Welfare,Social exclusion n.e.c.,Other Capital Outlay  Public Welfare  Other (G79),,0,g,0,0.3,0.2,0.5,605
+-R&D Social protection,Welfare,R&D Social protection,,,0,,0,0,0,0,606
+#NAME?,Welfare,Social protection n.e.c.,Other In Trust  Benefit Payment (Y53),,0,g,0,7.2,0,7.2,607
+#NAME?,Welfare,Social protection n.e.c.,Other In Trust  Other Payments (Y54),,0,,0,0,0,0,608
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"Diversion Control Fee Account, DEA",-0.335,b,,,,-0.335,609
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Salaries and Expenses,3.452,b,,,,3.452,610
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Construction,0.101,b,,,,0.101,611
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Salaries and Expenses,1.937,b,,,,1.937,612
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Diversion Control Fee Account,0.312,b,,,,0.312,613
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Salaries and Expenses,1.196,b,,,,1.196,614
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Salaries and Expenses,0.128,b,,,,0.128,615
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Tactical Law Enforcement Wireless Communications,0.105,b,,,,0.105,616
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Justice Information Sharing Technology,0.064,b,,,,0.064,617
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Office of Inspector General,0.086,b,,,,0.086,618
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Administrative Review and Appeals,0.331,b,,,,0.331,619
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Interagency Crime and Drug Enforcement,0.527,b,,,,0.527,620
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Salaries and Expenses,0.09,b,,,,0.09,621
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Enforcement,0.715,b,,,,0.715,622
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Salaries and Expenses,0.105,b,,,,0.105,623
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Treasury Forfeiture Fund,0.2,b,,,,0.2,624
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Treasury Forfeiture Fund,0.355,b,,,,0.355,625
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Office of the Inspector General,0.06,b,,,,0.06,626
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Office for Civil Rights,0.103,b,,,,0.103,627
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Immigration User Fee,-0.686,b,,,,-0.686,628
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Immigration Examination Fee,-2.815,b,,,,-2.815,629
+---H-1B Nonimmigrant Petitioner Account,Protection,Police services,Federal law enforcement activities (751),H1B Nonimmigrant Petitioner Account,-0.251,b,,,,-0.251,630
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Breached Bond/detention Fund,-0.075,b,,,,-0.075,631
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Student and Exchange Visitor Fee,-0.12,b,,,,-0.12,632
+---H-1B and L Fraud Prevention and Detection Account,Protection,Police services,Federal law enforcement activities (751),H1B and L Fraud Prevention and Detection Account,-0.105,b,,,,-0.105,633
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"US Customs User Fees Account, Conveyance/Passenger/Other",-0.529,b,,,,-0.529,634
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"US Customs User Fees Account, Merchandise Processing",-1.624,b,,,,-1.624,635
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Departmental Operations,0.536,b,,,,0.536,636
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Office of the Chief Information Officer,0.317,b,,,,0.317,637
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Analysis and Operations,0.328,b,,,,0.328,638
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Operating Expenses,0.147,b,,,,0.147,639
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Citizenship and Immigration Services,0.118,b,,,,0.118,640
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Citizenship and Immigration Services,3.059,b,,,,3.059,641
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Operating Expenses,1.567,b,,,,1.567,642
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"Contribution for Annuity Benefits, United States Secret Service",0.25,b,,,,0.25,643
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Salaries and expenses,0.231,b,,,,0.231,644
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Immigration and Customs Enforcement,5.388,b,,,,5.388,645
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Immigration and Customs Enforcement,0.312,b,,,,0.312,646
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Customs and Border Protection,9.848,b,,,,9.848,647
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Customs and Border Protection,1.462,b,,,,1.462,648
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"Automation Modernization, Customs and Border Protection",0.309,b,,,,0.309,649
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"Construction, Customs and Border Protection",0.383,b,,,,0.383,650
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"Border Security Fencing, Infrastructure, and Technology",0.402,b,,,,0.402,651
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"Air and Marine Interdiction, Operations, Maintenance, and Procurement",0.607,b,,,,0.607,652
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Electronic System for Travel Authorization,0.055,b,,,,0.055,653
+#NAME?,Protection,Police services,Federal law enforcement activities (751),United States Visitor and Immigrant Status Indicator Technology,0.255,b,,,,0.255,654
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"Research, Development, Acquisitions and Operations",0.785,b,,,,0.785,655
+#NAME?,Protection,Police services,Federal law enforcement activities (751),"Research, Development, and Operations",0.291,b,,,,0.291,656
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Fair Housing Activities,0.073,b,,,,0.073,657
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Fair Housing and Equal Opportunity Personnel Compensation and Benefits,0.074,b,,,,0.074,658
+#NAME?,Protection,Police services,Federal law enforcement activities (751),Salaries and Expenses,0.342,b,,,,0.342,659
+#NAME?,Protection,Police services,Current Operations  Police Protection (E62),,0,g,0,12.9,86.8,99.7,660
+#NAME?,Protection,Police services,Construction  Police Protection (F62),,0,g,0,0.2,1.5,1.6,661
+#NAME?,Protection,Police services,Other Capital Outlay  Police Protection (G62),,0,g,0,0.7,2.4,3.2,662
+#NAME?,Protection,Fireprotection services,Current Operations  Local Fire Protection (E24),,0,g,0,0,40.1,40.1,663
+#NAME?,Protection,Fireprotection services,Construction  Local Fire Protection (F24),,0,g,0,0,1.3,1.3,664
+#NAME?,Protection,Fireprotection services,Other Capital Outlay  Local Fire Protection (G24),,0,g,0,0,1.8,1.8,665
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),"Fees for Bankruptcy Oversight, U.S. Trustees System",-0.267,b,,,,-0.267,666
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Federal Prisoner Detention,1.418,b,,,,1.418,667
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),"Salaries and Expenses, General Legal Activities",0.988,b,,,,0.988,668
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Fees and Expenses of Witnesses,0.323,b,,,,0.323,669
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),"Salaries and Expenses, United States Attorneys",2.077,b,,,,2.077,670
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),"Salaries and Expenses, United States Marshals Service",1.454,b,,,,1.454,671
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Assets Forfeiture Fund,-0.676,b,,,,-0.676,672
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Assets Forfeiture Fund,0.566,b,,,,0.566,673
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Assets Forfeiture Fund,3.633,b,,,,3.633,674
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),United States Trustee System Fund,0.226,b,,,,0.226,675
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Salaries and Expenses,0.053,b,,,,0.053,676
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),"Proceeds from Sale of Property, Judiciary Information Technology Fund",-0.165,b,,,,-0.165,677
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),"Advances and Reimbursements, Judiciary Information Technology Fund",-0.3,b,,,,-0.3,678
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Federal Payment to Judicial Officers Retirement Fund,-0.095,b,,,,-0.095,679
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Judiciary Filing Fees,0.44,b,,,,0.44,680
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Judiciary Information Technology Fund,0.6,b,,,,0.6,681
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Salaries and Expenses,4.802,b,,,,4.802,682
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Salaries and Expenses,0.338,b,,,,0.338,683
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Defender Services,1.063,b,,,,1.063,684
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Fees of Jurors and Commissioners,0.055,b,,,,0.055,685
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Court Security,0.51,b,,,,0.51,686
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Salaries and Expenses,0.085,b,,,,0.085,687
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Payment to Judiciary Trust Funds,0.125,b,,,,0.125,688
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Salaries and Expenses,0.075,b,,,,0.075,689
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Payment to Legal Services Corporation,0.398,b,,,,0.398,690
+#NAME?,Protection,Law courts,Federal litigative and judicial activities (752),Federal Payment to Court Services and Offender Supervision Agency for the District of Columbia,0.216,b,,,,0.216,691
+#NAME?,Protection,Law courts,Criminal justice assistance (754),"Research, Evaluation, and Statistics",0.134,b,,,,0.134,692
+#NAME?,Protection,Law courts,Criminal justice assistance (754),"Research, Evaluation, and Statistics",0.1,b,,,,0.1,693
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Public Safety Officer Benefits,0.065,b,,,,0.065,694
+#NAME?,Protection,Law courts,Criminal justice assistance (754),State and Local Law Enforcement Assistance,1.589,b,,,,1.589,695
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Juvenile Justice Programs,0.341,b,,,,0.341,696
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Community Oriented Policing Services,0.518,b,,,,0.518,697
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Violence against Women Prevention and Prosecution Programs,0.533,b,,,,0.533,698
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Community Oriented Policing Stabilization Fund,1.597,b,,,,1.597,699
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Crime Victims Fund,-4.955,b,,,,-4.955,700
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Crime Victims Fund,1.095,b,,,,1.095,701
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Crime Victims Fund,5.002,b,,,,5.002,702
+---September 11th Victim Compensation (general Fund),Protection,Law courts,Criminal justice assistance (754),September 11th Victim Compensation (general Fund),0.322,b,,,,0.322,703
+#NAME?,Protection,Law courts,Criminal justice assistance (754),Highintensity Drug Trafficking Areas Program,0.238,b,,,,0.238,704
+#NAME?,Protection,Law courts,Current Operations  Judicial and Legal Services (E25),,0,g,0,21.3,22.4,43.7,705
+#NAME?,Protection,Law courts,Construction  Judicial and Legal Services (F25),,0,g,0,0.2,0.3,0.5,706
+#NAME?,Protection,Law courts,Other Capital Outlay  Judicial and Legal Services (G25),,0,g,0,0.2,0.3,0.5,707
+#NAME?,Protection,Prisons,Federal correctional activities (753),Buildings and Facilities,0.135,b,,,,0.135,708
+#NAME?,Protection,Prisons,Federal correctional activities (753),Salaries and Expenses,6.794,b,,,,6.794,709
+#NAME?,Protection,Prisons,Federal correctional activities (753),Detention Trustee,0.237,b,,,,0.237,710
+#NAME?,Protection,Prisons,Current Operations  Correctional Institutions (E04),,0,g,0,35.5,19.5,55,711
+#NAME?,Protection,Prisons,Current Operations  Corrections  Other (E05),,0,g,0,8.3,4.6,12.9,712
+#NAME?,Protection,Prisons,Construction  Correctional Institutions (F04),,0,g,0,1.7,1.5,3.1,713
+#NAME?,Protection,Prisons,Construction  Corrections  Other (F05),,0,g,0,0,0.1,0.1,714
+#NAME?,Protection,Prisons,Other Capital Outlay  Correctional Institutions (G04),,0,g,0,0.3,0.5,0.8,715
+#NAME?,Protection,Prisons,Other Capital Outlay  Corrections  Other (G05),,0,g,0,0.1,0.1,0.1,716
+-R&D Public order and safety,Protection,R&D Public order and safety,,,0,,0,0,0,0,717
+#NAME?,Protection,Public order and safety n.e.c.,"Current Operations  Protective Inspection and Regulation, NEC (E66)",,0,g,0,9.4,5.2,14.6,718
+#NAME?,Protection,Public order and safety n.e.c.,"Construction  Protective Inspection and Regulation, NEC (F66)",,0,g,0,0,0.5,0.5,719
+#NAME?,Protection,Public order and safety n.e.c.,"Other Capital Outlay  Protective Inspection and Regulation, NEC (G66)",,0,g,0,0.1,0.1,0.2,720
+#NAME?,Transportation,Transport,Ground transportation (401),Payment to FRA for AMTRAK Debt Restructuring,0.059,b,,,,0.059,721
+#NAME?,Transportation,Transport,Ground transportation (401),Immediate Transportation Investments,16.82,b,,,,16.82,722
+#NAME?,Transportation,Transport,Ground transportation (401),"Advances from State Cooperating Agencies and Foreign Governments, FHA Miscellaneous Trust",-0.055,b,,,,-0.055,723
+#NAME?,Transportation,Transport,Ground transportation (401),"Payment from the General Fund, Transportation Trust Fund (Mass Transit)",-12,b,,,,-12,724
+#NAME?,Transportation,Transport,Ground transportation (401),"Payment from the General Fund, Transportation Trust Fund (Highway)",-18.486,b,,,,-18.486,725
+#NAME?,Transportation,Transport,Ground transportation (401),"Payment from the General Fund, Transportation Trust Fund (multimodal Account)",-8,b,,,,-8,726
+#NAME?,Transportation,Transport,Ground transportation (401),Emergency Relief Program,0.937,b,,,,0.937,727
+#NAME?,Transportation,Transport,Ground transportation (401),"Highway Infrastructure Investment, Recovery Act",1.586,b,,,,1.586,728
+#NAME?,Transportation,Transport,Ground transportation (401),Payment to the Transportation Trust Fund,38.486,b,,,,38.486,729
+#NAME?,Transportation,Transport,Ground transportation (401),Highway Infrastructure Programs,0.151,b,,,,0.151,730
+#NAME?,Transportation,Transport,Ground transportation (401),Federalaid Highways,0.051,b,,,,0.051,731
+#NAME?,Transportation,Transport,Ground transportation (401),Federalaid Highways,41.115,b,,,,41.115,732
+#NAME?,Transportation,Transport,Ground transportation (401),Federalaid Highways,0.303,b,,,,0.303,733
+#NAME?,Transportation,Transport,Ground transportation (401),Miscellaneous Appropriations,0.086,b,,,,0.086,734
+#NAME?,Transportation,Transport,Ground transportation (401),Miscellaneous Trust Funds,0.091,b,,,,0.091,735
+#NAME?,Transportation,Transport,Ground transportation (401),Motor Carrier Safety Grants,0.334,b,,,,0.334,736
+#NAME?,Transportation,Transport,Ground transportation (401),Motor Carrier Safety Operations and Programs,0.249,b,,,,0.249,737
+#NAME?,Transportation,Transport,Ground transportation (401),Operations and Research (Transportation Trust Fund),0.249,b,,,,0.249,738
+#NAME?,Transportation,Transport,Ground transportation (401),Highway Traffic Safety Grants,0.634,b,,,,0.634,739
+#NAME?,Transportation,Transport,Ground transportation (401),Safety and Operations,0.148,b,,,,0.148,740
+#NAME?,Transportation,Transport,Ground transportation (401),Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service,1.423,b,,,,1.423,741
+#NAME?,Transportation,Transport,Ground transportation (401),Capital Assistance for High Speed Rail Corridors and Intercity Passenger Rail Service,0.337,b,,,,0.337,742
+#NAME?,Transportation,Transport,Ground transportation (401),Network Development,0.136,b,,,,0.136,743
+#NAME?,Transportation,Transport,Ground transportation (401),System Preservation,1.089,b,,,,1.089,744
+#NAME?,Transportation,Transport,Ground transportation (401),"Transit Capital Assistance, Recovery Act",0.864,b,,,,0.864,745
+#NAME?,Transportation,Transport,Ground transportation (401),"Fixed Guideway Infrastructure Investment, Recovery Act",0.088,b,,,,0.088,746
+#NAME?,Transportation,Transport,Ground transportation (401),Washington Metropolitan Area Transit Authority,0.25,b,,,,0.25,747
+#NAME?,Transportation,Transport,Ground transportation (401),Formula Grants,0.116,b,,,,0.116,748
+#NAME?,Transportation,Transport,Ground transportation (401),Capital Investment Grants,1.895,b,,,,1.895,749
+#NAME?,Transportation,Transport,Ground transportation (401),Research and University Research Centers,0.062,b,,,,0.062,750
+#NAME?,Transportation,Transport,Ground transportation (401),Transit Formula Grants,8.457,b,,,,8.457,751
+#NAME?,Transportation,Transport,Ground transportation (401),Operations and Safety,0.117,b,,,,0.117,752
+#NAME?,Transportation,Transport,Ground transportation (401),Transit Expansion and Livable Communities Programs,0.245,b,,,,0.245,753
+#NAME?,Transportation,Transport,Ground transportation (401),Bus and Rail State of Good Repair,0.481,b,,,,0.481,754
+#NAME?,Transportation,Transport,Ground transportation (401),"Supplemental Discretionary Grants for a National Surface Transportation System, Recovery Act",0.42,b,,,,0.42,755
+#NAME?,Transportation,Transport,Ground transportation (401),National Infrastructure Investments,0.312,b,,,,0.312,756
+#NAME?,Transportation,Transport,Ground transportation (401),Surface Transportation Security,0.126,b,,,,0.126,757
+#NAME?,Transportation,Transport,Air transportation (402),Immediate Transportation Investments,1.46,b,,,,1.46,758
+#NAME?,Transportation,Transport,Air transportation (402),Operations,3.292,b,,,,3.292,759
+#NAME?,Transportation,Transport,Air transportation (402),Aviation Insurance Revolving Fund,-0.194,b,,,,-0.194,760
+#NAME?,Transportation,Transport,Air transportation (402),Trust Fund Share of FAA Activities (Airport and Airway Trust Fund),6.721,b,,,,6.721,761
+#NAME?,Transportation,Transport,Air transportation (402),Grantsinaid for Airports (Airport and Airway Trust Fund),3.456,b,,,,3.456,762
+#NAME?,Transportation,Transport,Air transportation (402),Grantsinaid for Airports (Airport and Airway Trust Fund),0.142,b,,,,0.142,763
+#NAME?,Transportation,Transport,Air transportation (402),Facilities and Equipment (Airport and Airway Trust Fund),2.917,b,,,,2.917,764
+#NAME?,Transportation,Transport,Air transportation (402),"Research, Engineering and Development (Airport and Airway Trust Fund)",0.189,b,,,,0.189,765
+#NAME?,Transportation,Transport,Air transportation (402),Essential Air Service and Rural Airport Improvement Fund,0.08,b,,,,0.08,766
+#NAME?,Transportation,Transport,Air transportation (402),Payments to Air Carriers,0.126,b,,,,0.126,767
+#NAME?,Transportation,Transport,Air transportation (402),"Fees, Aviation Security Capital Fund",-0.25,b,,,,-0.25,768
+#NAME?,Transportation,Transport,Air transportation (402),"Fees, Aviation Security, Deficit Reduction",-0.2,b,,,,-0.2,769
+#NAME?,Transportation,Transport,Air transportation (402),Federal Air Marshals,0.929,b,,,,0.929,770
+#NAME?,Transportation,Transport,Air transportation (402),Aviation Security,2.916,b,,,,2.916,771
+#NAME?,Transportation,Transport,Air transportation (402),Aviation Security,0.246,b,,,,0.246,772
+#NAME?,Transportation,Transport,Air transportation (402),Transportation Security Support,0.986,b,,,,0.986,773
+#NAME?,Transportation,Transport,Air transportation (402),Transportation Threat Assessment and Credentialing,0.182,b,,,,0.182,774
+#NAME?,Transportation,Transport,Air transportation (402),Aeronautics,0.506,b,,,,0.506,775
+#NAME?,Transportation,Transport,Water transportation (403),Operations and Training,0.201,b,,,,0.201,776
+#NAME?,Transportation,Transport,Water transportation (403),Ocean Freight Differential,0.15,b,,,,0.15,777
+#NAME?,Transportation,Transport,Water transportation (403),Retired Pay,1.424,b,,,,1.424,778
+#NAME?,Transportation,Transport,Water transportation (403),Operating Expenses,6.406,b,,,,6.406,779
+#NAME?,Transportation,Transport,Water transportation (403),Reserve Training,0.133,b,,,,0.133,780
+#NAME?,Transportation,Transport,Water transportation (403),"Acquisition, Construction, and Improvements",1.992,b,,,,1.992,781
+#NAME?,Transportation,Transport,Water transportation (403),"Medicareeligible Retiree Health Fund Contribution, Homeland Security",0.17,b,,,,0.17,782
+#NAME?,Transportation,Transport,Water transportation (403),Boat Safety,0.11,b,,,,0.11,783
+#NAME?,Transportation,Transport,Other transportation (407),Pipeline Safety Fund,-0.151,b,,,,-0.151,784
+#NAME?,Transportation,Transport,Other transportation (407),Salaries and Expenses,0.11,b,,,,0.11,785
+#NAME?,Transportation,Transport,Other transportation (407),Pipeline Safety,0.073,b,,,,0.073,786
+#NAME?,Transportation,Transport,Other transportation (407),Salaries and Expenses,0.086,b,,,,0.086,787
+#NAME?,Transportation,Transport,Other transportation (407),Salaries and Expenses,0.102,b,,,,0.102,788
+#NAME?,Transportation,Transport,Federal Intergovernmental  Air Transportation (B01),,0,g,-2.9,0,0,-2.9,789
+#NAME?,Transportation,Transport,Federal Intergovernmental  Highways (B46),,0,g,-46.4,0,0,-46.4,790
+#NAME?,Transportation,Transport,Current Operations  Air Transportation (E01),,0,g,0,1.1,10.7,11.8,791
+#NAME?,Transportation,Transport,Current Operations  Regular Highways (E44),,0,g,0,28.7,40.7,69.4,792
+#NAME?,Transportation,Transport,Current Operations  Toll Highways (E45),,0,g,0,3.5,1.2,4.7,793
+--Current Operations - Private Transit Subsidies (Disc. 2005) (E47),Transportation,Transport,Current Operations  Private Transit Subsidies (Disc. 2005) (E47),,0,,0,0,0,0,794
+#NAME?,Transportation,Transport,Current Operations  Sea and Inland Port Facilities (E87),,0,g,0,1.2,2.6,3.8,795
+#NAME?,Transportation,Transport,Construction  Air Transportation (F01),,0,g,0,0.8,12.1,12.9,796
+#NAME?,Transportation,Transport,Construction  Regular Highways (F44),,0,g,0,55.7,19.8,75.5,797
+#NAME?,Transportation,Transport,Construction  Toll Highways (F45),,0,g,0,3.3,0.9,4.2,798
+#NAME?,Transportation,Transport,Construction  Private Transit Subsidies (F47),,0,,0,0,0,0,799
+#NAME?,Transportation,Transport,Construction  Sea and Inland Port Facilities (F87),,0,g,0,0.4,1.7,2.1,800
+#NAME?,Transportation,Transport,Other Capital Outlay  Air Transportation (G01),,0,g,0,0.1,0.9,0.9,801
+#NAME?,Transportation,Transport,Other Capital Outlay  Regular Highways (G44),,0,g,0,4.4,3.7,8.1,802
+#NAME?,Transportation,Transport,Other Capital Outlay  Toll Highways (G45),,0,g,0,0.1,0.5,0.6,803
+#NAME?,Transportation,Transport,Other Capital Outlay  Private Transit Subsidies (G47),,0,,0,0,0,0,804
+#NAME?,Transportation,Transport,Other Capital Outlay  Sea and Inland Port Facilities (G87),,0,g,0,0.2,0.3,0.4,805
+#NAME?,Transportation,Transit,Federal Intergovernmental  Transit Utilities (B94),,0,g,-11.6,0,0,-11.6,806
+#NAME?,Transportation,Transit,Current Operations  Transit Utilities (E94),,0,g,0,6.7,32.3,39,807
+#NAME?,Transportation,Transit,Construction  Transit Utilities (F94),,0,g,0,2.2,7.3,9.5,808
+#NAME?,Transportation,Transit,Other Capital Outlay  Transit Utilities (G94),,0,g,0,2.5,7.9,10.4,809
+#NAME?,Transportation,Transit,Transit Utilities  Interest on Debt (I94),,0,g,0,0.9,1.4,2.3,810
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Compensation of Members and Related Administrative Expenses,0.103,b,,,,0.103,811
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Salaries and Expenses,1.258,b,,,,1.258,812
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),General Expenses,0.085,b,,,,0.085,813
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Salaries,0.303,b,,,,0.303,814
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),General Administration,0.109,b,,,,0.109,815
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Capitol Building,0.057,b,,,,0.057,816
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Senate Office Buildings,0.08,b,,,,0.08,817
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),House Office Buildings,0.08,b,,,,0.08,818
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Capitol Power Plant,0.13,b,,,,0.13,819
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Congressional Research Service: Salaries and Expenses,0.109,b,,,,0.109,820
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Congressional Printing and Binding,0.081,b,,,,0.081,821
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Salaries and Expenses,0.524,b,,,,0.524,822
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),"Salaries, Officers and Employees",0.182,b,,,,0.182,823
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Sergeant at Arms and Doorkeeper of the Senate,0.13,b,,,,0.13,824
+#NAME?,General Government,"Executive and legislative organs, financ",Legislative functions (801),Inquiries and Investigations,0.138,b,,,,0.138,825
+---Senators' Official Personnel and Office Expense Account,General Government,"Executive and legislative organs, financ",Legislative functions (801),Senators' Official Personnel and Office Expense Account,0.426,b,,,,0.426,826
+#NAME?,General Government,"Executive and legislative organs, financ",Executive direction and management (802),Salaries and Expenses,0.122,b,,,,0.122,827
+#NAME?,General Government,"Executive and legislative organs, financ",Executive direction and management (802),Office of Management and Budget,0.092,b,,,,0.092,828
+#NAME?,General Government,"Executive and legislative organs, financ",Executive direction and management (802),The White House,0.057,b,,,,0.057,829
+#NAME?,General Government,"Executive and legislative organs, financ",Executive direction and management (802),Office of the United States Trade Representative,0.053,b,,,,0.053,830
+#NAME?,General Government,"Executive and legislative organs, financ",Executive direction and management (802),Other Federal Drug Control Programs,0.144,b,,,,0.144,831
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Charges for Administrative Expenses of Social Security Act As Amended,-0.952,b,,,,-0.952,832
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),"New Installment Agreements, IRS Miscellaneous Retained Fees",-0.159,b,,,,-0.159,833
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),"General User Fees, IRS Miscellaneous Retained Fees",-0.079,b,,,,-0.079,834
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Underpayment and Fraud Collection,-0.125,b,,,,-0.125,835
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Debt Collection,-0.092,b,,,,-0.092,836
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Federal Financing Bank,-0.58,b,,,,-0.58,837
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Financial Agent Services,0.61,b,,,,0.61,838
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Federal Reserve Bank Reimbursement Fund,0.331,b,,,,0.331,839
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),"Salaries and Expenses, Fiscal Service",0.349,b,,,,0.349,840
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),"Salaries and Expenses, Fiscal Service",0.075,b,,,,0.075,841
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Reimbursements to Federal Reserve Banks,0.11,b,,,,0.11,842
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Salaries and Expenses,0.097,b,,,,0.097,843
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Informant Payments,0.125,b,,,,0.125,844
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Taxpayer Services,2.225,b,,,,2.225,845
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Enforcement,5.036,b,,,,5.036,846
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Operations Support,4.365,b,,,,4.365,847
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Business Systems Modernization,0.352,b,,,,0.352,848
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Salaries and Expenses,0.31,b,,,,0.31,849
+#NAME?,General Government,"Executive and legislative organs, financ",Central fiscal operations (803),Treasury Inspector General for Tax Administration,0.154,b,,,,0.154,850
+#NAME?,General Government,"Executive and legislative organs, financ",General property and records management (804),Office of Inspector General,0.059,b,,,,0.059,851
+#NAME?,General Government,"Executive and legislative organs, financ",General property and records management (804),Operating Expenses,0.067,b,,,,0.067,852
+#NAME?,General Government,"Executive and legislative organs, financ",General property and records management (804),Governmentwide Policy,0.082,b,,,,0.082,853
+#NAME?,General Government,"Executive and legislative organs, financ",General property and records management (804),Federal Buildings Fund,-0.314,b,,,,-0.314,854
+#NAME?,General Government,"Executive and legislative organs, financ",General property and records management (804),"Federal Buildings Fund, Recovery Act",0.824,b,,,,0.824,855
+#NAME?,General Government,"Executive and legislative organs, financ",General property and records management (804),Operating Expenses,0.333,b,,,,0.333,856
+#NAME?,General Government,"Executive and legislative organs, financ",Central personnel management (805),Salaries and Expenses,0.1,b,,,,0.1,857
+#NAME?,General Government,"Executive and legislative organs, financ",Central personnel management (805),Payment to Civil Service Retirement and Disability Fund,31.838,b,,,,31.838,858
+#NAME?,General Government,"Executive and legislative organs, financ",Central personnel management (805),General Fund Payment to the Civil Service Retirement and Disability Fund,-31.838,b,,,,-31.838,859
+#NAME?,General Government,"Executive and legislative organs, financ",Current Operations  Financial Administration (E23),,0,g,0,23.1,18.4,41.5,860
+#NAME?,General Government,"Executive and legislative organs, financ",Current Operations  State Legislative Services (E26),,0,g,0,3,0,3,861
+#NAME?,General Government,"Executive and legislative organs, financ",Current Operations  Central Staff Services (E29),,0,g,0,2,23.5,25.5,862
+#NAME?,General Government,"Executive and legislative organs, financ",Current Operations  General Public Buildings (E31),,0,g,0,1.4,6.7,8.1,863
+#NAME?,General Government,"Executive and legislative organs, financ",Construction  Financial Administration (F23),,0,g,0,0.1,0.2,0.3,864
+#NAME?,General Government,"Executive and legislative organs, financ",Construction  State Legislative Services (F26),,0,g,0,0,0,0,865
+#NAME?,General Government,"Executive and legislative organs, financ",Construction  Central Staff Services (F29),,0,g,0,0,1.1,1.1,866
+#NAME?,General Government,"Executive and legislative organs, financ",Construction  General Public Buildings (F31),,0,g,0,1.5,2.1,3.6,867
+#NAME?,General Government,"Executive and legislative organs, financ",Other Capital Outlay  Financial Administration (G23),,0,g,0,0.3,0.5,0.8,868
+#NAME?,General Government,"Executive and legislative organs, financ",Other Capital Outlay  State Legislative Services (G26),,0,g,0,0,0,0,869
+#NAME?,General Government,"Executive and legislative organs, financ",Other Capital Outlay  Central Staff Services (G29),,0,g,0,0.1,1.3,1.4,870
+#NAME?,General Government,"Executive and legislative organs, financ",Other Capital Outlay  General Public Building (G31),,0,g,0,0.1,0.9,1,871
+#NAME?,General Government,General services,General purpose fiscal assistance (806),Mineral Leasing and Associated Payments,2.144,b,,,,2.144,872
+#NAME?,General Government,General services,General purpose fiscal assistance (806),"Payments to the United States Territories, Fiscal Assistance",0.248,b,,,,0.248,873
+#NAME?,General Government,General services,General purpose fiscal assistance (806),Payments to States in Lieu of Coal Fee Receipts,0.12,b,,,,0.12,874
+#NAME?,General Government,General services,General purpose fiscal assistance (806),Payments in Lieu of Taxes,0.398,b,,,,0.398,875
+#NAME?,General Government,General services,General purpose fiscal assistance (806),Internal Revenue Collections for Puerto Rico,0.466,b,,,,0.466,876
+#NAME?,General Government,General services,General purpose fiscal assistance (806),"Build America Bond Payments, Recovery Act",3.958,b,,,,3.958,877
+#NAME?,General Government,General services,General purpose fiscal assistance (806),"Refunds, Transfers, and Expenses of Operation, Puerto Rico",0.098,b,,,,0.098,878
+#NAME?,General Government,General services,General purpose fiscal assistance (806),Federal Payment to the District of Columbia Courts,0.245,b,,,,0.245,879
+#NAME?,General Government,General services,General purpose fiscal assistance (806),Defender Services in District of Columbia Courts,0.06,b,,,,0.06,880
+#NAME?,General Government,General services,General purpose fiscal assistance (806),Forest Service Permanent Appropriations,0.126,b,,,,0.126,881
+#NAME?,General Government,General services,General purpose fiscal assistance (806),Forest Service Permanent Appropriations,0.224,b,,,,0.224,882
+--Social Security Integrity and Debt Reduction (807),General Government,General services,Social Security Integrity and Debt Reduction (807),,0,,0,0,0,0,883
+#NAME?,General Government,General services,Other general government (808),Assistance to Territories,0.07,b,,,,0.07,884
+#NAME?,General Government,General services,Other general government (808),Compact of Free Association,0.256,b,,,,0.256,885
+#NAME?,General Government,General services,Other general government (808),Federal Trust Programs,0.147,b,,,,0.147,886
+#NAME?,General Government,General services,Other general government (808),"Claims, Judgments, and Relief Acts",0.816,b,,,,0.816,887
+#NAME?,General Government,General services,Other general government (808),Government Printing Office Revolving Fund,0.182,b,,,,0.182,888
+#NAME?,General Government,General services,Other general government (808),Salaries and Expenses,0.071,b,,,,0.071,889
+#NAME?,General Government,General services,Federal Intergovernmental  General Local Government Support (B30),,0,g,-0.8,0,0,-0.8,890
+#NAME?,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Space Operations,4.271,b,,,,4.271,891
+#NAME?,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Science,5,b,,,,5,892
+#NAME?,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Cross Agency Support,2.921,b,,,,2.921,893
+#NAME?,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Exploration,3.859,b,,,,3.859,894
+#NAME?,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Education,0.173,b,,,,0.173,895
+#NAME?,Other Spending,Basic research,"Space flight, research, and supporting activities (252)","Construction, Environmental Compliance, and Remediation",0.545,b,,,,0.545,896
+#NAME?,Other Spending,Basic research,"Space flight, research, and supporting activities (252)",Space Technology,0.519,b,,,,0.519,897
+#NAME?,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Deposit Insurance Fund,-17.093,b,,,,-17.093,898
+#NAME?,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Orderly Liquidation Fund,1.515,b,,,,1.515,899
+#NAME?,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Credit Union Share Insurance Fund,-0.139,b,,,,-0.139,900
+#NAME?,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Central Liquidity Facility,-0.11,b,,,,-0.11,901
+#NAME?,Other Spending,"General economic, commercial and labour ",Deposit insurance (373),Temporary Corporate Credit Union Stabilization Fund,-0.755,b,,,,-0.755,902
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),"Surveys, Investigations, and Research",1.141,b,,,,1.141,903
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Coastal Impact Assistance,0.092,b,,,,0.092,904
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Salaries and Expenses,0.268,b,,,,0.268,905
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Salaries and Expenses,0.065,b,,,,0.065,906
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Working Capital Fund,0.102,b,,,,0.102,907
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Interior Franchise Fund,0.388,b,,,,0.388,908
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),"Operations, Research, and Facilities",0.105,b,,,,0.105,909
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),"Operations, Research, and Facilities",3.12,b,,,,3.12,910
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),Pacific Coastal Salmon Recovery,0.076,b,,,,0.076,911
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other natural resources (306),"Procurement, Acquisition and Construction",1.715,b,,,,1.715,912
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Farm Credit System Insurance Fund,-0.153,b,,,,-0.153,913
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Administrative and Operating Expenses,0.075,b,,,,0.075,914
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Federal Crop Insurance Corporation Fund,-0.075,b,,,,-0.075,915
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Federal Crop Insurance Corporation Fund,9.162,b,,,,9.162,916
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Agricultural Credit Insurance Fund Program Account,0.415,b,,,,0.415,917
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Discrimination Claims Settlement,1.15,b,,,,1.15,918
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Agricultural Credit Insurance Fund Liquidating Account,-0.163,b,,,,-0.163,919
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Commodity Credit Corporation Fund,6.522,b,,,,6.522,920
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Agricultural Disaster Relief Fund,1.395,b,,,,1.395,921
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Salaries and Expenses,1.207,b,,,,1.207,922
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Tobacco Trust Fund,0.96,b,,,,0.96,923
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Farm income stabilization (351),Departmental Administration,0.082,b,,,,0.082,924
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),"Deposits of Fees, Inspection and Grading of Farm Products, AMS",-0.151,b,,,,-0.151,925
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Economic Research Service,0.086,b,,,,0.086,926
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),National Agricultural Statistics Service,0.178,b,,,,0.178,927
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Salaries and Expenses,1.135,b,,,,1.135,928
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Research and Education Activities,0.337,b,,,,0.337,929
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Research and Education Activities,0.478,b,,,,0.478,930
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Integrated Activities,0.083,b,,,,0.083,931
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Extension Activities,0.613,b,,,,0.613,932
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Extension Activities,0.095,b,,,,0.095,933
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Salaries and Expenses,0.857,b,,,,0.857,934
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Salaries and Expenses,0.27,b,,,,0.27,935
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Marketing Services,0.081,b,,,,0.081,936
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Payments to States and Possessions,0.054,b,,,,0.054,937
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),"Expenses and Refunds, Inspection and Grading of Farm Products",0.15,b,,,,0.15,938
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Agriculture Buildings and Facilities and Rental Payments,0.244,b,,,,0.244,939
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Salaries and Expenses,0.177,b,,,,0.177,940
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Office of Civil Rights,0.054,b,,,,0.054,941
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Agricultural research and services (352),Office of Inspector General,0.092,b,,,,0.092,942
+"--Federal Intergovernmental - Natural Resources, Agriculture (Disc. 2005) (B54)",Other Spending,"Agriculture, forestry, fishing and hunti","Federal Intergovernmental  Natural Resources, Agriculture (Disc. 2005) (B54)",,0,,0,0,0,0,943
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Federal Intergovernmental  Natural Resources (B59),,0,g,-2.6,0,0,-2.6,944
+--Current Operations - Agriculture - Other (Disc. 2005) (E54),Other Spending,"Agriculture, forestry, fishing and hunti",Current Operations  Agriculture  Other (Disc. 2005) (E54),,0,,0,0,0,0,945
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Current Operations  State Fish and Game (E55),,0,g,0,3.1,0,3.1,946
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Current Operations  State Forestry (E56),,0,g,0,1.7,0,1.7,947
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Current Operations  Natural Resources  Other (E59),,0,g,0,1.4,5.2,6.5,948
+--Construction - Agriculture - Other (Disc. 2005) (F54),Other Spending,"Agriculture, forestry, fishing and hunti",Construction  Agriculture  Other (Disc. 2005) (F54),,0,,0,0,0,0,949
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Construction  State Fish and Game (F55),,0,g,0,0.1,0,0.1,950
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Construction  State Forestry (F56),,0,g,0,0.1,0,0.1,951
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Construction  Natural Resources  Other (F59),,0,g,0,1,1.4,2.4,952
+--Other Capital Outlay - Agriculture - Other (Disc. 2005) (G54),Other Spending,"Agriculture, forestry, fishing and hunti",Other Capital Outlay  Agriculture  Other (Disc. 2005) (G54),,0,,0,0,0,0,953
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other Capital Outlay  State Fish and Game (G55),,0,g,0,0.5,0,0.5,954
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other Capital Outlay  State Forestry (G56),,0,g,0,0.2,0,0.2,955
+#NAME?,Other Spending,"Agriculture, forestry, fishing and hunti",Other Capital Outlay  Natural Resources  Other (G59),,0,g,0,0.4,0.9,1.3,956
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Payment Where Specified Energy Property Credit Exceeds Liability for Tax,2.144,b,,,,2.144,957
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Grants for Specified Energy Property in Lieu of Tax Credits, Recovery Act",1.705,b,,,,1.705,958
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Sale and Transmission of Electric Energy, Southwestern Power Administration",-0.078,b,,,,-0.078,959
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Sale and Transmission of Electric Energy, Southeastern Power Administration",-0.179,b,,,,-0.179,960
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Reclamation Fund, All Other, Sale of Electric Energy, Bonneville Power Administration",-0.09,b,,,,-0.09,961
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Reclamation Fund, All Other, Sale of Power and Other Utilities (WAPA)",-0.189,b,,,,-0.189,962
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Nuclear Waste Disposal Fund,-0.783,b,,,,-0.783,963
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"General Fund Payment  Defense, Decontamination and Decommissioning Fund",-0.463,b,,,,-0.463,964
+---Title 17 Innovative Technology Loan Guarantee Program,Other Spending,Fuel and energy,Energy supply (271),Title 17 Innovative Technology Loan Guarantee Program,0.55,b,,,,0.55,965
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Fossil Energy Research and Development,1.668,b,,,,1.668,966
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Nondefense Environmental Cleanup,0.223,b,,,,0.223,967
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Electricity Delivery and Energy Reliability,0.786,b,,,,0.786,968
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Nuclear Energy,0.764,b,,,,0.764,969
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Energy Efficiency and Renewable Energy,1.529,b,,,,1.529,970
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Energy Transformation Acceleration Fund, Recovery Act",0.07,b,,,,0.07,971
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Advanced Research Projects Agency,0.271,b,,,,0.271,972
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Uranium Enrichment Decontamination and Decommissioning Fund,0.518,b,,,,0.518,973
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Western Area Power Administration, Borrowing Authority, Recovery Act.",0.218,b,,,,0.218,974
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration",0.31,b,,,,0.31,975
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Tennessee Valley Authority Fund,0.945,b,,,,0.945,976
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),"Rural Electrification and Telephone Loans, Negative Subsidies",-0.183,b,,,,-0.183,977
+#NAME?,Other Spending,Fuel and energy,Energy supply (271),Rural Electrification and Telecommunications Liquidating Account,-0.478,b,,,,-0.478,978
+#NAME?,Other Spending,Fuel and energy,Energy conservation (272),Energy Efficiency and Renewable Energy,1.01,b,,,,1.01,979
+#NAME?,Other Spending,Fuel and energy,Energy conservation (272),Energy Efficiency and Renewable Energy,1.682,b,,,,1.682,980
+#NAME?,Other Spending,Fuel and energy,Energy conservation (272),Advanced Technology Vehicles Manufacturing Loan Program Account,0.361,b,,,,0.361,981
+#NAME?,Other Spending,Fuel and energy,Energy conservation (272),"Advanced Vehicles, Community Deployment Challenge",0.15,b,,,,0.15,982
+#NAME?,Other Spending,Fuel and energy,Energy conservation (272),Home Energy Retrofit Rebate Program,0.3,b,,,,0.3,983
+#NAME?,Other Spending,Fuel and energy,Emergency energy preparedness (274),Strategic Petroleum Reserve,0.25,b,,,,0.25,984
+#NAME?,Other Spending,Fuel and energy,Emergency energy preparedness (274),SPR Petroleum Account,0.096,b,,,,0.096,985
+#NAME?,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)",Energy Information Administration,0.112,b,,,,0.112,986
+#NAME?,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)",Departmental Administration,0.175,b,,,,0.175,987
+#NAME?,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)",Salaries and Expenses,1.061,b,,,,1.061,988
+#NAME?,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)","Nuclear Facility Fees, Nuclear Regulatory Commission",-0.925,b,,,,-0.925,989
+#NAME?,Other Spending,Fuel and energy,"Energy information, policy, and regulation (276)",Electric Reliability Organization,0.1,b,,,,0.1,990
+#NAME?,Other Spending,Fuel and energy,Rents and royalties on the Outer Continental Shelf (953),Royalties on Outer Continental Shelf Lands,-5.907,b,,,,-5.907,991
+#NAME?,Other Spending,Fuel and energy,Rents and royalties on the Outer Continental Shelf (953),"Land and Water Conservation Fund, Rent Receipts, Outer Continental Shelf Lands",-0.702,b,,,,-0.702,992
+#NAME?,Other Spending,Fuel and energy,Rents and royalties on the Outer Continental Shelf (953),"Land and Water Conservation Fund, Royalty Receipts, Outer Continental Shelf",-0.195,b,,,,-0.195,993
+#NAME?,Other Spending,Fuel and energy,Rents and royalties on the Outer Continental Shelf (953),"Historic Preservation Fund, Rent Receipts, Outer Continental Shelf Lands",-0.15,b,,,,-0.15,994
+#NAME?,Other Spending,Fuel and energy,Federal Intergovernmental  Electric Utilities (B92),,0,g,-0.2,0,0,-0.2,995
+#NAME?,Other Spending,Fuel and energy,Federal Intergovernmental  Gas Utilities (B93),,0,,0,0,0,0,996
+#NAME?,Other Spending,Fuel and energy,Current Operations  Electric Utilities (E92),,0,g,0,11.1,51.6,62.7,997
+#NAME?,Other Spending,Fuel and energy,Current Operations  Gas Utilities (E93),,0,g,0,0,8.2,8.2,998
+#NAME?,Other Spending,Fuel and energy,Construction  Electric Utilities (F92),,0,g,0,0.8,6,6.8,999
+#NAME?,Other Spending,Fuel and energy,Construction  Gas Utilities (F93),,0,g,0,0,0.5,0.5,1000
+#NAME?,Other Spending,Fuel and energy,Other Capital Outlay  Electric Utilities (G92),,0,g,0,0.2,1.3,1.5,1001
+#NAME?,Other Spending,Fuel and energy,Other Capital Outlay  Gas Utilities (G93),,0,g,0,0,0.2,0.2,1002
+#NAME?,Other Spending,Fuel and energy,Electric Utilities  Interest on Debt (I92),,0,g,0,1.2,3.7,4.9,1003
+#NAME?,Other Spending,Fuel and energy,Gas Utilities  Interest on Debt (I93),,0,g,0,0,0.4,0.4,1004
+#NAME?,Other Spending,"Mining, manufacturing and construction",,,0,,0,0,0,0,1005
+#NAME?,Other Spending,Communication,Postal Service (372),"Postal Service Contributions for Benefits Paid to Retirees, Postal Service Retiree Health Benefits Fund",-0.876,b,,,,-0.876,1006
+#NAME?,Other Spending,Communication,Postal Service (372),Payment to Postal Service Fund,0.078,b,,,,0.078,1007
+#NAME?,Other Spending,Communication,Postal Service (372),Office of Inspector General of the United States Postal Service,0.241,b,,,,0.241,1008
+#NAME?,Other Spending,Communication,Postal Service (372),Postal Service Fund,-6.912,b,,,,-6.912,1009
+#NAME?,Other Spending,Communication,Postal Service (372),Unspecified Adjustments to Operations,2.037,b,,,,2.037,1010
+#NAME?,Other Spending,Other industries,Current Operations  Liquor Stores (E90),,0,g,0,5.6,1.2,6.9,1011
+#NAME?,Other Spending,Other industries,Construction  Liquor Stores (F90),,0,g,0,0,0,0,1012
+#NAME?,Other Spending,Other industries,Other Capital Outlay  Liquor Stores (G90),,0,g,0,0,0,0,1013
+-R&D Economic affairs,Other Spending,R&D Economic affairs,,,0,,0,0,0,0,1014
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Continued Dumping and Subsidy Offset,0.126,b,,,,0.126,1015
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Terrorism Insurance Program,0.245,b,,,,0.245,1016
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Office of Financial Stability,0.291,b,,,,0.291,1017
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),State Small Business Credit Initiative,0.251,b,,,,0.251,1018
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Financial Research Fund,0.154,b,,,,0.154,1019
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,0.582,b,,,,0.582,1020
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Business Loans Program Account,0.491,b,,,,0.491,1021
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Commodity Futures Trading Commission,0.297,b,,,,0.297,1022
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Universal Service Fund,1.867,b,,,,1.867,1023
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Universal Service Fund,7.795,b,,,,7.795,1024
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,0.158,b,,,,0.158,1025
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,0.105,b,,,,0.105,1026
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Investor Protection Fund,0.133,b,,,,0.133,1027
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Public Company Accounting Oversight Board,0.236,b,,,,0.236,1028
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Securities Investor Protection Corporation,0.299,b,,,,0.299,1029
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Travel Promotion Fund,0.1,b,,,,0.1,1030
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Bureau of Consumer Financial Protection Fund,0.394,b,,,,0.394,1031
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Operations and Administration,-0.198,b,,,,-0.198,1032
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),"Spectrum Auction Receipts, Public Safety Trust Fund",-1.216,b,,,,-1.216,1033
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Operations and Administration,0.497,b,,,,0.497,1034
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Operations and Administration,0.068,b,,,,0.068,1035
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Promote and Develop Fishery Products and Research Pertaining to American Fisheries,-0.071,b,,,,-0.071,1036
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Promote and Develop Fishery Products and Research Pertaining to American Fisheries,0.071,b,,,,0.071,1037
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Scientific and Technical Research and Services,0.705,b,,,,0.705,1038
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Wireless Innovation (WIN) Fund,-0.288,b,,,,-0.288,1039
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Construction of Research Facilities,0.182,b,,,,0.182,1040
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Industrial Technology Services,0.156,b,,,,0.156,1041
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),National Network for Manufacturing Innovation,0.208,b,,,,0.208,1042
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,0.056,b,,,,0.056,1043
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),State and Local Implementation Fund,-0.16,b,,,,-0.16,1044
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,0.062,b,,,,0.062,1045
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),"Broadband Technology Opportunities Program, Recovery Act",1.159,b,,,,1.159,1046
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Incentive Auction Relocation Fund,-0.5,b,,,,-0.5,1047
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Public Safety Trust Fund,1.216,b,,,,1.216,1048
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,0.259,b,,,,0.259,1049
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Periodic Censuses and Programs,0.717,b,,,,0.717,1050
+#NAME?,Other Spending,Economic affairs n.e.c.,Other advancement of commerce (376),Salaries and Expenses,0.1,b,,,,0.1,1051
+#NAME?,Other Spending,Economic affairs n.e.c.,Sale of major assets (954),Proceeds from Sale of Securities from the AIG Credit Facility Trust,-4.035,b,,,,-4.035,1052
+#NAME?,Other Spending,Economic affairs n.e.c.,Sale of major assets (954),Asset Sale Proceeds,-0.12,b,,,,-0.12,1053
+#NAME?,Other Spending,Economic affairs n.e.c.,Other undistributed offsetting receipts (959),Auction Receipts,-0.425,b,,,,-0.425,1054
+#NAME?,Other Spending,Economic affairs n.e.c.,Other undistributed offsetting receipts (959),Spectrum License User Fees,-0.2,b,,,,-0.2,1055
+#NAME?,Other Spending,Economic affairs n.e.c.,"Current Operations  Miscellaneous Commercial Activities, NEC (E03)",,0,g,0,2.5,5.5,8,1056
+#NAME?,Other Spending,Economic affairs n.e.c.,"Construction  Miscellaneous Commercial Activities, NEC (F03)",,0,g,0,0.2,0.2,0.3,1057
+#NAME?,Other Spending,Economic affairs n.e.c.,"Other Capital Outlay  Miscellaneous Commercial Activities, NEC (G03)",,0,g,0,0,0,0.1,1058
+#NAME?,Other Spending,Waste management,Current Operations  Solid Waste Management (E81),,0,g,0,2.8,24.2,26.9,1059
+#NAME?,Other Spending,Waste management,Construction  Solid Waste Management (F81),,0,g,0,0.2,1.3,1.5,1060
+#NAME?,Other Spending,Waste management,Other Capital Outlay  Solid Waste Management (G81),,0,g,0,0,1.1,1.2,1061
+#NAME?,Other Spending,Waste water management,Federal Intergovernmental  Sewerage (B80),,0,g,-3.4,0,0,-3.4,1062
+#NAME?,Other Spending,Waste water management,Current Operations  Sewerage (E80),,0,g,0,0.7,30.6,31.3,1063
+#NAME?,Other Spending,Waste water management,Construction  Sewerage (F80),,0,g,0,0.9,22.6,23.5,1064
+#NAME?,Other Spending,Waste water management,Other Capital Outlay  Sewerage (G80),,0,g,0,0,2.1,2.1,1065
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),State and Tribal Assistance Grants,3.876,b,,,,3.876,1066
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),Science and Technology,0.812,b,,,,0.812,1067
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),Environmental Programs and Management,2.743,b,,,,2.743,1068
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),Payment to the Hazardous Substance Superfund,1.011,b,,,,1.011,1069
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),Working Capital Fund,0.061,b,,,,0.061,1070
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),"Recoveries, Hazardous Substance Superfund",-0.104,b,,,,-0.104,1071
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),"Interfund Transactions, Hazardous Substance Superfund",-1.011,b,,,,-1.011,1072
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),Hazardous Substance Superfund,0.211,b,,,,0.211,1073
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),Hazardous Substance Superfund,1.202,b,,,,1.202,1074
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),Leaking Underground Storage Tank Trust Fund,0.106,b,,,,0.106,1075
+#NAME?,Other Spending,Pollution abatement,Pollution control and abatement (304),Maritime Oil Spill Programs,0.155,b,,,,0.155,1076
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Rent and Bonuses from Land Leases for Resource Exploration and Extraction,-0.065,b,,,,-0.065,1077
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Royalties on Natural Resources, not Otherwise Classified",-0.377,b,,,,-0.377,1078
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Reclamation Fund, Royalties on Natural Resources",-1.732,b,,,,-1.732,1079
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Receipts from Mineral Leasing, Public Lands",-2.184,b,,,,-2.184,1080
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Payment from the General Fund, Cooperative Endangered Species Conservation Fund",-0.057,b,,,,-0.057,1081
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Natural Resources Damages from Legal Actions,-0.057,b,,,,-0.057,1082
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"Land Sales, Southern Nevada Public Land Management",-0.1,b,,,,-0.1,1083
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Resource Management,1.327,b,,,,1.327,1084
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),State and Tribal Wildlife Grants,0.079,b,,,,0.079,1085
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Land Acquisition,0.096,b,,,,0.096,1086
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Cooperative Endangered Species Conservation Fund,0.09,b,,,,0.09,1087
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Cooperative Endangered Species Conservation Fund,0.053,b,,,,0.053,1088
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Offshore Safety and Environmental Enforcement,0.074,b,,,,0.074,1089
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Management of Lands and Resources,0.991,b,,,,0.991,1090
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Oregon and California Grant Lands,0.112,b,,,,0.112,1091
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Permanent Operating Funds,0.219,b,,,,0.219,1092
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Ocean Energy Management,0.077,b,,,,0.077,1093
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Operation of Indian Programs,0.174,b,,,,0.174,1094
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Regulation and Technology,0.081,b,,,,0.081,1095
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Payments to States in Lieu of Coal Fee Receipts,0.082,b,,,,0.082,1096
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Abandoned Mine Reclamation Fund,0.153,b,,,,0.153,1097
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Wildland Fire Management,0.849,b,,,,0.849,1098
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Natural Resource Damage Assessment Fund,0.061,b,,,,0.061,1099
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),National Forest Fund,0.054,b,,,,0.054,1100
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),"National Forests Fund, Payments to States",-0.07,b,,,,-0.07,1101
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),National Grasslands,-0.062,b,,,,-0.062,1102
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Commodity Credit Corporation Fund,2.196,b,,,,2.196,1103
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Conservation Operations,0.816,b,,,,0.816,1104
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Farm Security and Rural Investment Programs,-0.128,b,,,,-0.128,1105
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Farm Security and Rural Investment Programs,3.309,b,,,,3.309,1106
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Capital Improvement and Maintenance,0.47,b,,,,0.47,1107
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Forest and Rangeland Research,0.331,b,,,,0.331,1108
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),State and Private Forestry,0.309,b,,,,0.309,1109
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),State and Private Forestry,0.12,b,,,,0.12,1110
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),National Forest System,1.68,b,,,,1.68,1111
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Wildland Fire Management,2.383,b,,,,2.383,1112
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Forest Service Permanent Appropriations,0.094,b,,,,0.094,1113
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Land Acquisition,0.07,b,,,,0.07,1114
+#NAME?,Other Spending,Protection of biodiversity and landscape,Conservation and land management (302),Forest Service Trust Funds,0.127,b,,,,0.127,1115
+-R&D Environmental protection,Other Spending,R&D Environmental protection,,,0,,0,0,0,0,1116
+#NAME?,Other Spending,Environmental protection n.e.c.,,,0,,0,0,0,0,1117
+---GSE Fees Pursuant to P.L. 112-78 Sec. 401,Other Spending,Housing development,Mortgage credit (371),GSE Fees Pursuant to P.L. 11278 Sec. 401,-1.479,b,,,,-1.479,1118
+#NAME?,Other Spending,Housing development,Mortgage credit (371),"Proceeds, GSE Equity Related Transactions",-21.69,b,,,,-21.69,1119
+#NAME?,Other Spending,Housing development,Mortgage credit (371),GSE Preferred Stock Purchase Agreements,12.7,b,,,,12.7,1120
+#NAME?,Other Spending,Housing development,Mortgage credit (371),"FHAgeneral and Special Risk, Negative Subsidies",-0.588,b,,,,-0.588,1121
+#NAME?,Other Spending,Housing development,Mortgage credit (371),"GNMAguarantees of Mortgage Backed Securities Guarantee Loans, Negative Subsidies",-0.55,b,,,,-0.55,1122
+#NAME?,Other Spending,Housing development,Mortgage credit (371),Guarantees of Mortgagebacked Securities Loan Guarantee Program Account,-0.067,b,,,,-0.067,1123
+#NAME?,Other Spending,Housing development,Mortgage credit (371),Guarantees of Mortgagebacked Securities Liquidating Account,0.197,b,,,,0.197,1124
+#NAME?,Other Spending,Housing development,Mortgage credit (371),FHAmutual Mortgage Insurance Program Account,0.136,b,,,,0.136,1125
+#NAME?,Other Spending,Housing development,Mortgage credit (371),FHAmutual Mortgage Insurance Capital Reserve Account,-8.188,b,,,,-8.188,1126
+#NAME?,Other Spending,Housing development,Mortgage credit (371),FHAmutual Mortgage Insurance Capital Reserve Account,-0.152,b,,,,-0.152,1127
+#NAME?,Other Spending,Housing development,Mortgage credit (371),FHAmutual Mortgage and Cooperative Housing Insurance Funds Liquidating Account,0.052,b,,,,0.052,1128
+#NAME?,Other Spending,Housing development,Mortgage credit (371),FHAgeneral and Special Risk Insurance Funds Liquidating Account,0.06,b,,,,0.06,1129
+#NAME?,Other Spending,Housing development,Mortgage credit (371),Housing for the Elderly or Handicapped Fund Liquidating Account,-0.54,b,,,,-0.54,1130
+#NAME?,Other Spending,Housing development,Mortgage credit (371),"Federal Housing Finance Agency, Administrative Expenses",0.236,b,,,,0.236,1131
+#NAME?,Other Spending,Housing development,Mortgage credit (371),"Rural Housing Insurance, Negative Subsidies",-0.062,b,,,,-0.062,1132
+#NAME?,Other Spending,Housing development,Mortgage credit (371),Rural Housing Insurance Fund Program Account,0.506,b,,,,0.506,1133
+#NAME?,Other Spending,Housing development,Mortgage credit (371),Rural Housing Insurance Fund Liquidating Account,-0.56,b,,,,-0.56,1134
+#NAME?,Other Spending,Community development,Community development (451),Community Development Financial Institutions Fund Program Account,0.209,b,,,,0.209,1135
+#NAME?,Other Spending,Community development,Community development (451),Research and Technology,0.059,b,,,,0.059,1136
+#NAME?,Other Spending,Community development,Community development (451),Lead Hazard Reduction,0.13,b,,,,0.13,1137
+#NAME?,Other Spending,Community development,Community development (451),Office of Inspector General,0.128,b,,,,0.128,1138
+#NAME?,Other Spending,Community development,Community development (451),Community Planning and Development Personnel Compensation and Benefits,0.104,b,,,,0.104,1139
+#NAME?,Other Spending,Community development,Community development (451),Transformation Initiative,0.101,b,,,,0.101,1140
+#NAME?,Other Spending,Community development,Community development (451),Working Capital Fund,0.284,b,,,,0.284,1141
+#NAME?,Other Spending,Community development,Community development (451),Community Development Fund,5.704,b,,,,5.704,1142
+#NAME?,Other Spending,Community development,Community development (451),Neighborhood Stabilization Program,5.548,b,,,,5.548,1143
+#NAME?,Other Spending,Community development,Community development (451),Payment to Neighborhood Reinvestment Corporation,0.213,b,,,,0.213,1144
+#NAME?,Other Spending,Community development,Area and regional development (452),"Return of Principal from Private Sector Investments, Tribal Special Fund",-0.315,b,,,,-0.315,1145
+#NAME?,Other Spending,Community development,Area and regional development (452),"Power Revenues, Indian Irrigation Projects",-0.07,b,,,,-0.07,1146
+#NAME?,Other Spending,Community development,Area and regional development (452),"Return of Principal from Private Sector Investments, Tribal Trust Fund",-0.097,b,,,,-0.097,1147
+#NAME?,Other Spending,Community development,Area and regional development (452),Operation of Indian Programs,0.157,b,,,,0.157,1148
+#NAME?,Other Spending,Community development,Area and regional development (452),Operation of Indian Programs,1.206,b,,,,1.206,1149
+#NAME?,Other Spending,Community development,Area and regional development (452),Construction,0.196,b,,,,0.196,1150
+#NAME?,Other Spending,Community development,Area and regional development (452),Miscellaneous Permanent Appropriations,0.1,b,,,,0.1,1151
+#NAME?,Other Spending,Community development,Area and regional development (452),Trust Land Consolidation Fund,0.35,b,,,,0.35,1152
+#NAME?,Other Spending,Community development,Area and regional development (452),Tribal Special Fund,0.339,b,,,,0.339,1153
+#NAME?,Other Spending,Community development,Area and regional development (452),Tribal Trust Fund,0.104,b,,,,0.104,1154
+#NAME?,Other Spending,Community development,Area and regional development (452),Appalachian Regional Commission,0.063,b,,,,0.063,1155
+#NAME?,Other Spending,Community development,Area and regional development (452),National Infrastructure Bank Program Account,0.107,b,,,,0.107,1156
+#NAME?,Other Spending,Community development,Area and regional development (452),Salaries and Expenses,0.218,b,,,,0.218,1157
+#NAME?,Other Spending,Community development,Area and regional development (452),"Distance Learning, Telemedicine, and Broadband Program",0.709,b,,,,0.709,1158
+#NAME?,Other Spending,Community development,Area and regional development (452),"Distance Learning, Telemedicine, and Broadband Program",0.075,b,,,,0.075,1159
+#NAME?,Other Spending,Community development,Area and regional development (452),Rural Water and Waste Disposal Program Account,0.933,b,,,,0.933,1160
+#NAME?,Other Spending,Community development,Area and regional development (452),Rural Water and Waste Disposal Program Account,0.113,b,,,,0.113,1161
+#NAME?,Other Spending,Community development,Area and regional development (452),Rural Development Insurance Fund Liquidating Account,-0.126,b,,,,-0.126,1162
+#NAME?,Other Spending,Community development,Area and regional development (452),Rural Community Facilities Program Account,0.065,b,,,,0.065,1163
+#NAME?,Other Spending,Community development,Area and regional development (452),Rural Business Program Account,0.086,b,,,,0.086,1164
+#NAME?,Other Spending,Community development,Area and regional development (452),Energy Assistance Payments,0.129,b,,,,0.129,1165
+#NAME?,Other Spending,Community development,Area and regional development (452),Rural Economic Development Grants,-0.161,b,,,,-0.161,1166
+#NAME?,Other Spending,Community development,Area and regional development (452),Biorefinery Assistance Program Account,0.06,b,,,,0.06,1167
+#NAME?,Other Spending,Community development,Area and regional development (452),Economic Development Assistance Programs,0.444,b,,,,0.444,1168
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Office of Health Affairs,0.166,b,,,,0.166,1169
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),National Protection and Programs Directorate,0.053,b,,,,0.053,1170
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),National Flood Insurance Fund,-0.364,b,,,,-0.364,1171
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Flood Hazard Mapping and Risk Analysis Program,0.115,b,,,,0.115,1172
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),State and Local Programs,5.735,b,,,,5.735,1173
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Salaries and Expenses,0.761,b,,,,0.761,1174
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Disaster Relief,0.611,b,,,,0.611,1175
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Disaster Relief,9.349,b,,,,9.349,1176
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Disaster Assistance Direct Loan Program Account,0.053,b,,,,0.053,1177
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Radiological Emergency Preparedness Program,0.051,b,,,,0.051,1178
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),National Predisaster Mitigation Fund,0.16,b,,,,0.16,1179
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),First Responder Stabilization Fund,0.399,b,,,,0.399,1180
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Disaster Loans Program Account,0.285,b,,,,0.285,1181
+#NAME?,Other Spending,Community development,Disaster relief and insurance (453),Emergency Conservation Program,0.101,b,,,,0.101,1182
+#NAME?,Other Spending,Community development,Current Operations  Parking Facilities (E60),,0,g,0,0,1.4,1.4,1183
+#NAME?,Other Spending,Community development,Construction  Parking Facilities (F60),,0,g,0,0,0.3,0.3,1184
+#NAME?,Other Spending,Community development,Other Capital Outlay  Parking Facilities (G60),,0,g,0,0,0.1,0.1,1185
+#NAME?,Other Spending,Water supply,Water resources (301),"Reclamation Fund, Other Proprietary Receipts from the Public",-0.128,b,,,,-0.128,1186
+#NAME?,Other Spending,Water supply,Water resources (301),"Revenues, Colorado River Dam Fund, Boulder Canyon Project",-0.111,b,,,,-0.111,1187
+#NAME?,Other Spending,Water supply,Water resources (301),Policy and Administration,0.06,b,,,,0.06,1188
+#NAME?,Other Spending,Water supply,Water resources (301),Reclamation Water Settlements Fund,0.06,b,,,,0.06,1189
+#NAME?,Other Spending,Water supply,Water resources (301),"Colorado River Dam Fund, Boulder Canyon Project",0.104,b,,,,0.104,1190
+#NAME?,Other Spending,Water supply,Water resources (301),Water and Related Resources,0.921,b,,,,0.921,1191
+#NAME?,Other Spending,Water supply,Water resources (301),Mississippi River and Tributaries,0.56,b,,,,0.56,1192
+#NAME?,Other Spending,Water supply,Water resources (301),Investigations,0.123,b,,,,0.123,1193
+#NAME?,Other Spending,Water supply,Water resources (301),Construction,2.602,b,,,,2.602,1194
+#NAME?,Other Spending,Water supply,Water resources (301),Operation and Maintenance,1.957,b,,,,1.957,1195
+#NAME?,Other Spending,Water supply,Water resources (301),Expenses,0.183,b,,,,0.183,1196
+#NAME?,Other Spending,Water supply,Water resources (301),Flood Control and Coastal Emergencies,1.479,b,,,,1.479,1197
+#NAME?,Other Spending,Water supply,Water resources (301),Regulatory Program,0.212,b,,,,0.212,1198
+#NAME?,Other Spending,Water supply,Water resources (301),Coastal Wetlands Restoration Trust Fund,0.11,b,,,,0.11,1199
+#NAME?,Other Spending,Water supply,Water resources (301),Inland Waterways Trust Fund,0.097,b,,,,0.097,1200
+#NAME?,Other Spending,Water supply,Water resources (301),"Contributions, Rivers and Harbors, Other Than Port and Harbor User Fees",-0.45,b,,,,-0.45,1201
+#NAME?,Other Spending,Water supply,Water resources (301),Rivers and Harbors Contributed Funds,0.456,b,,,,0.456,1202
+#NAME?,Other Spending,Water supply,Water resources (301),Harbor Maintenance Trust Fund,0.839,b,,,,0.839,1203
+#NAME?,Other Spending,Water supply,Water resources (301),Watershed Rehabilitation Program,0.053,b,,,,0.053,1204
+#NAME?,Other Spending,Water supply,Water resources (301),Watershed and Flood Prevention Operations,0.164,b,,,,0.164,1205
+#NAME?,Other Spending,Water supply,Federal Intergovernmental  Water Utilities (B91),,0,g,-1.7,0,0,-1.7,1206
+#NAME?,Other Spending,Water supply,Current Operations  Water Utilities (E91),,0,g,0,0.2,39.1,39.3,1207
+#NAME?,Other Spending,Water supply,Construction  Water Utilities (F91),,0,g,0,0,11.5,11.5,1208
+#NAME?,Other Spending,Water supply,Other Capital Outlay  Water Utilities (G91),,0,g,0,0,2.2,2.2,1209
+#NAME?,Other Spending,Water supply,Water Utilities  Interest on Debt (I91),,0,g,0,0.1,6.6,6.8,1210
+#NAME?,Other Spending,Street lighting,,,0,,0,0,0,0,1211
+-R&D Housing and community amenities,Other Spending,R&D Housing and community amenities,,,0,,0,0,0,0,1212
+#NAME?,Other Spending,Housing and community amenities n.e.c.,,,0,,0,0,0,0,1213
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),"Recreation Enhancement Fee, National Park System",-0.172,b,,,,-0.172,1214
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Park Concessions Franchise Fees,-0.07,b,,,,-0.07,1215
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Federal Aid in Wildlife Restoration,0.424,b,,,,0.424,1216
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Migratory Bird Conservation Account,0.059,b,,,,0.059,1217
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Sport Fish Restoration,0.5,b,,,,0.5,1218
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Operation of the National Park System,2.276,b,,,,2.276,1219
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Construction (and Major Maintenance),0.279,b,,,,0.279,1220
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),National Recreation and Preservation,0.063,b,,,,0.063,1221
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Land Acquisition and State Assistance,0.064,b,,,,0.064,1222
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Historic Preservation Fund,0.081,b,,,,0.081,1223
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Other Permanent Appropriations,0.179,b,,,,0.179,1224
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Recreation Fee Permanent Appropriations,0.158,b,,,,0.158,1225
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),"Recreational Fee Demonstration Program, Forest Service",-0.062,b,,,,-0.062,1226
+#NAME?,Other Spending,Recreational and sporting services,Recreational resources (303),Forest Service Permanent Appropriations,0.062,b,,,,0.062,1227
+#NAME?,Other Spending,Recreational and sporting services,Current Operations  Parks and Recreation (E61),,0,g,0,4.2,25.6,29.7,1228
+#NAME?,Other Spending,Recreational and sporting services,Construction  Parks and Recreation (F61),,0,g,0,0.7,7.5,8.3,1229
+#NAME?,Other Spending,Recreational and sporting services,Other Capital Outlay  Parks and Recreation (G61),,0,g,0,0.3,2.3,2.6,1230
+#NAME?,Other Spending,Cultural services,,,0,,0,0,0,0,1231
+#NAME?,Other Spending,Broadcasting and publishing services,,,0,,0,0,0,0,1232
+#NAME?,Other Spending,Religious and other community services,,,0,,0,0,0,0,1233
+"-R&D Recreation, culture and religion",Other Spending,"R&D Recreation, culture and religion",,,0,,0,0,0,0,1234
+#NAME?,Other Spending,"Recreation, culture and religion n.e.c.",,,0,,0,0,0,0,1235
+-R&D General public services,Other Spending,R&D General public services,,,0,,0,0,0,0,1236
+--Deductions for offsetting receipts (809),Other Spending,General public services n.e.c.,Deductions for offsetting receipts (809),,-1.8,b,0,0,0,-1.8,1237
+--General revenue sharing (851),Other Spending,General public services n.e.c.,General revenue sharing (851),,0,,0,0,0,0,1238
+--Other general purpose fiscal assistance (852),Other Spending,General public services n.e.c.,Other general purpose fiscal assistance (852),,0,,0,0,0,0,1239
+--Central Federal credit activities (871),Other Spending,General public services n.e.c.,Central Federal credit activities (871),,0,,0,0,0,0,1240
+--Financial stabilization efforts (891),Other Spending,General public services n.e.c.,Financial stabilization efforts (891),,0,,0,0,0,0,1241
+--Disaster costs (892),Other Spending,General public services n.e.c.,Disaster costs (892),,0,,0,0,0,0,1242
+--Bipartisan economic security plan (921),Other Spending,General public services n.e.c.,Bipartisan economic security plan (921),,0,b,0,0,0,0,1243
+--Allowance for anticipated supplemental (922),Other Spending,General public services n.e.c.,Allowance for anticipated supplemental (922),,0,,0,0,0,0,1244
+--National emergency reserve (923),Other Spending,General public services n.e.c.,National emergency reserve (923),,0,,0,0,0,0,1245
+--Spectrum relocation (924),Other Spending,General public services n.e.c.,Spectrum relocation (924),,0,b,0,0,0,0,1246
+--Debt collection initiatives (925),Other Spending,General public services n.e.c.,Debt collection initiatives (925),,1.6,b,0,0,0,1.6,1247
+--Adjustment to certain pass-through accounts (926),Other Spending,General public services n.e.c.,Adjustment to certain passthrough accounts (926),,0,,0,0,0,0,1248
+--Contingent offset for the refundable portion of the health care tax credit (927),Other Spending,General public services n.e.c.,Contingent offset for the refundable portion of the health care tax credit (927),,0,,0,0,0,0,1249
+--Contingencies for other requirements (928),Other Spending,General public services n.e.c.,Contingencies for other requirements (928),,0,,0,0,0,0,1250
+--Other allowances (929),Other Spending,General public services n.e.c.,Other allowances (929),,0,b,0,0,0,0,1251
+#NAME?,Other Spending,General public services n.e.c.,Current Operations  General  Other (E89),,0,g,0,43.6,68.6,112.2,1252
+#NAME?,Other Spending,General public services n.e.c.,Construction  General  Other (F89),,0,g,0,1.5,14.6,16.1,1253
+#NAME?,Other Spending,General public services n.e.c.,Other Capital Outlay  General  Other (G89),,0,g,0,0.7,7.1,7.8,1254
+#NAME?,Other Spending,Transfers of a general character between,Federal Intergovernmental  All Other (B89),,0,g,-41.2,0,0,-41.2,1255
+#NAME?,Interest,Public debt transactions,Interest on Treasury debt securities (gross) (901),Interest on Treasury Debt Securities (gross),283.936,b,,,,283.936,1256
+#NAME?,Interest,Public debt transactions,Interest on Treasury debt securities (gross) (901),Interest Paid to Trust Fund Receipt Accounts  Shadow Account,172.946,b,,,,172.946,1257
+#NAME?,Interest,Public debt transactions,Interest on Treasury debt securities (gross) (901),Interest Paid to Expenditure Accounts  Shadow Account,4.043,b,,,,4.043,1258
+#NAME?,Interest,Public debt transactions,Interest on Treasury debt securities (gross) (901),Interest Paid to Federal Fund Receipt Accounts  Shadow Account,11.115,b,,,,11.115,1259
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest Received by Trust Fund, FSMI Fund",-2.561,b,,,,-2.561,1260
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"FHI Trust Fund, Interest Received by Trust Funds",-10.042,b,,,,-10.042,1261
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Unemployment Trust Fund, Interest and Profits on Investments in Public Debt Securities",-0.431,b,,,,-0.431,1262
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Earnings on Investments, Military Retirement Fund",-17.152,b,,,,-17.152,1263
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest, Airport and Airway Trust Fund",-0.226,b,,,,-0.226,1264
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"NSLI Fund, Interest",-0.317,b,,,,-0.317,1265
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"FFB, TVA, and USPS Interest, Civil Service Retirement and Disability Fund",-0.329,b,,,,-0.329,1266
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Treasury Interest, Civil Service Retirement and Disability Fund",-31.838,b,,,,-31.838,1267
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest and Profits on Investments, Hazardous Substance Superfund",-0.111,b,,,,-0.111,1268
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Earnings on Investments, Leaking Underground Storage Tank Trust Fund",-0.11,b,,,,-0.11,1269
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest and Profits on Investments, Vaccine Injury Compensation Trust Fund",-0.074,b,,,,-0.074,1270
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Interest on Investments, Foreign Service Retirement and Disability Fund",-0.785,b,,,,-0.785,1271
+#NAME?,Interest,Public debt transactions,Interest received by onbudget trust funds (902),"Earnings on Investments, Harbor Maintenance Trust Fund",-0.205,b,,,,-0.205,1272
+#NAME?,Interest,Public debt transactions,Interest received by offbudget trust funds (903),"FOASI, Interest Received by Trust Funds",-103.32,b,,,,-103.32,1273
+#NAME?,Interest,Public debt transactions,Interest received by offbudget trust funds (903),"FDI, Interest Received by Trust Funds",-5.517,b,,,,-5.517,1274
+#NAME?,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, Abandoned Mine Reclamation Fund",-0.056,b,,,,-0.056,1275
+#NAME?,Interest,Public debt transactions,Other interest (908),"Interest on Loans to the Helium Fund, Department of Interior",-0.175,b,,,,-0.175,1276
+#NAME?,Interest,Public debt transactions,Other interest (908),Interest on Loans to BPA,-0.336,b,,,,-0.336,1277
+#NAME?,Interest,Public debt transactions,Other interest (908),Interest on Loans to Federal Financing Bank,-2.626,b,,,,-2.626,1278
+#NAME?,Interest,Public debt transactions,Other interest (908),"Interest on Loans to National Flood Insurance Fund, DHS",-0.099,b,,,,-0.099,1279
+#NAME?,Interest,Public debt transactions,Other interest (908),Interest on Quota in International Monetary Fund,-0.055,b,,,,-0.055,1280
+#NAME?,Interest,Public debt transactions,Other interest (908),Interest Received from Credit Financing Accounts,-52.888,b,,,,-52.888,1281
+#NAME?,Interest,Public debt transactions,Other interest (908),Interest on Loans and Repayable Advances to the Federal Unemployment Account,-0.85,b,,,,-0.85,1282
+#NAME?,Interest,Public debt transactions,Other interest (908),Payment to the Resolution Funding Corporation,2.628,b,,,,2.628,1283
+#NAME?,Interest,Public debt transactions,Other interest (908),Interest Paid to Credit Financing Accounts,12.82,b,,,,12.82,1284
+#NAME?,Interest,Public debt transactions,Other interest (908),"Refunding Internal Revenue Collections, Interest",3.208,b,,,,3.208,1285
+#NAME?,Interest,Public debt transactions,Other interest (908),Interest on Loans or Advances to the Extended Unemployment Compensation Account,-0.46,b,,,,-0.46,1286
+#NAME?,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, Nuclear Waste Disposal Fund",-1.571,b,,,,-1.571,1287
+#NAME?,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, Decontamination and Decommissioning Fund",-0.12,b,,,,-0.12,1288
+#NAME?,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, DoD MedicareEligible Retiree Health Care Fund",-7.43,b,,,,-7.43,1289
+#NAME?,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, Postal Service Retiree Health Benefits Fund",-1.773,b,,,,-1.773,1290
+#NAME?,Interest,Public debt transactions,Other interest (908),"Earnings on Investments, DC Federal Pension Fund",-0.094,b,,,,-0.094,1291
+#NAME?,Interest,Public debt transactions,Other interest (908),"General Fund Proprietary Interest Receipts, not Otherwise Classified",-0.09,b,,,,-0.09,1292
+#NAME?,Interest,Public debt transactions,Other investment income (909),"Gains and Losses on NonFederal Securities, National Railroad Retirement Investment Trust",-0.19,b,,,,-0.19,1293
+#NAME?,Interest,Public debt transactions,Other investment income (909),"Interest and Dividends on NonFederal Securities, National Railroad Retirement Investment Trust",-0.455,b,,,,-0.455,1294
+#NAME?,Interest,Public debt transactions,General  Interest on Debt (I89),,0,g,0,49.8,65,114.8,1295
+Balance,Balance,,,,0,g,0,0,0,0,1296
+#NAME?,Total Spending,Total,Federal Intergovernmental  General Local Government Support (B30),,0,g,-0.8,0,0,-0.8,1297
+#NAME?,Total Spending,Total,Federal Intergovernmental  All Other (B89),,0,g,-41.2,0,0,-41.2,1298
+"--Federal Intergovernmental - Natural Resources, Agriculture (Disc. 2005) (B54)",Total Spending,Total,"Federal Intergovernmental  Natural Resources, Agriculture (Disc. 2005) (B54)",,0,,0,0,0,0,1299
+#NAME?,Total Spending,Total,Federal Intergovernmental  Natural Resources (B59),,0,g,-2.6,0,0,-2.6,1300
+#NAME?,Total Spending,Total,Federal Intergovernmental  Electric Utilities (B92),,0,g,-0.2,0,0,-0.2,1301
+#NAME?,Total Spending,Total,Federal Intergovernmental  Gas Utilities (B93),,0,,0,0,0,0,1302
+#NAME?,Total Spending,Total,Federal Intergovernmental  Air Transportation (B01),,0,g,-2.9,0,0,-2.9,1303
+#NAME?,Total Spending,Total,Federal Intergovernmental  Highways (B46),,0,g,-46.4,0,0,-46.4,1304
+#NAME?,Total Spending,Total,Federal Intergovernmental  Transit Utilities (B94),,0,g,-11.6,0,0,-11.6,1305
+#NAME?,Total Spending,Total,Federal Intergovernmental  Sewerage (B80),,0,g,-3.4,0,0,-3.4,1306
+#NAME?,Total Spending,Total,Federal Intergovernmental  Water Utilities (B91),,0,g,-1.7,0,0,-1.7,1307
+#NAME?,Total Spending,Total,Federal Intergovernmental  Health and Hospitals (B42),,0,g,-28.2,0,0,-28.2,1308
+--Intergovernmental Revenue from Federal - Environmental Health (NEW for 2007) (B43),Total Spending,Total,Intergovernmental Revenue from Federal  Environmental Health (NEW for 2007) (B43),,0,,0,0,0,0,1309
+#NAME?,Total Spending,Total,Federal Intergovernmental  Public Welfare (B79),,0,g,-337.8,0,0,-337.8,1310
+#NAME?,Total Spending,Total,Federal Intergovernmental  Education (B21),,0,g,-104.4,0,0,-104.4,1311
+#NAME?,Total Spending,Total,Federal Intergovernmental  Employment Security Administration (B22),,0,g,-5.5,0,0,-5.5,1312
+#NAME?,Total Spending,Total,Federal Intergovernmental  Housing and Community Development (B50),,0,g,-48.9,0,0,-48.9,1313
+--Total federal outlays (000),Total Spending,Total,Total federal outlays (000),,3803.4,b,0,0,0,3803.4,1314
+#NAME?,Total Spending,Total,Total state/local outlays (E00),,0,g,0,"1,511.30","1,602.20",3113.5,1315
+--Total federal outlays (000),Federal Deficit,Total Spending,Total federal outlays (000),,3803.4,b,0,0,0,3803.4,1316
+#NAME?,Federal Deficit,Total Revenue,Total Revenue (FTR),,2902,b,0,0,0,2902,1317
+--Long Term Debt Outstanding - Full Faith and Credit - Water Utilities (Disc. 2005) (41A),Gross Public Debt,Public Debt,Long Term Debt Outstanding  Full Faith and Credit  Water Utilities (Disc. 2005) (41A),,0,,0,0,0,0,1318
+--Long Term Debt Outstanding - Full Faith and Credit - Electric Utilities (Disc. 2005) (41B),Gross Public Debt,Public Debt,Long Term Debt Outstanding  Full Faith and Credit  Electric Utilities (Disc. 2005) (41B),,0,,0,0,0,0,1319
+--Long Term Debt Outstanding - Full Faith and Credit - Gas Utilities (Disc. 2005) (41C),Gross Public Debt,Public Debt,Long Term Debt Outstanding  Full Faith and Credit  Gas Utilities (Disc. 2005) (41C),,0,,0,0,0,0,1320
+--Long Term Debt Outstanding - Full Faith and Credit - Transit Utilities (Disc. 2005) (41D),Gross Public Debt,Public Debt,Long Term Debt Outstanding  Full Faith and Credit  Transit Utilities (Disc. 2005) (41D),,0,,0,0,0,0,1321
+--Long Term Debt Outstanding - Full Faith and Credit - Elementary and Secondary Educati (41F),Gross Public Debt,Public Debt,Long Term Debt Outstanding  Full Faith and Credit  Elementary and Secondary Educati (41F),,0,,0,0,0,0,1322
+--Long Term Debt Outstanding - Full Faith and Credit - Higher Education (Disc. 2005) (41G),Gross Public Debt,Public Debt,Long Term Debt Outstanding  Full Faith and Credit  Higher Education (Disc. 2005) (41G),,0,,0,0,0,0,1323
+"--Long Term Debt Outstanding - Full Faith and Credit - Other, NEC (Disc. 2005) (41X)",Gross Public Debt,Public Debt,"Long Term Debt Outstanding  Full Faith and Credit  Other, NEC (Disc. 2005) (41X)",,0,,0,0,0,0,1324
+--Long Term Debt Outstanding Nonguaranteed - Water Utilities (Disc. 2005) (44A),Gross Public Debt,Public Debt,Long Term Debt Outstanding Nonguaranteed  Water Utilities (Disc. 2005) (44A),,0,,0,0,0,0,1325
+--Long Term Debt Outstanding Nonguaranteed - Electric Utilities (Disc. 2005) (44B),Gross Public Debt,Public Debt,Long Term Debt Outstanding Nonguaranteed  Electric Utilities (Disc. 2005) (44B),,0,,0,0,0,0,1326
+--Long Term Debt Outstanding Nonguaranteed - Gas Utilities (Disc. 2005) (44C),Gross Public Debt,Public Debt,Long Term Debt Outstanding Nonguaranteed  Gas Utilities (Disc. 2005) (44C),,0,,0,0,0,0,1327
+--Long Term Debt Outstanding Nonguaranteed - Transit Utilities (Disc. 2005) (44D),Gross Public Debt,Public Debt,Long Term Debt Outstanding Nonguaranteed  Transit Utilities (Disc. 2005) (44D),,0,,0,0,0,0,1328
+--Long Term Debt Outstanding Nonguaranteed - Elementary and Secondary Education (Disc.  (44F),Gross Public Debt,Public Debt,Long Term Debt Outstanding Nonguaranteed  Elementary and Secondary Education (Disc.  (44F),,0,,0,0,0,0,1329
+--Long Term Debt Outstanding Nonguaranteed - Higher Education (Disc. 2005) (44G),Gross Public Debt,Public Debt,Long Term Debt Outstanding Nonguaranteed  Higher Education (Disc. 2005) (44G),,0,,0,0,0,0,1330
+"--Long-term Debt Outstanding, End Of Fiscal Year, Public Debt For Private Purposes (44T)",Gross Public Debt,Public Debt,"Longterm Debt Outstanding, End Of Fiscal Year, Public Debt For Private Purposes (44T)",,0,g,0,394.2,226.6,620.7,1331
+"--Long Term Debt Outstanding Nonguaranteed - Other, NEC (Disc. 2005) (44X)",Gross Public Debt,Public Debt,"Long Term Debt Outstanding Nonguaranteed  Other, NEC (Disc. 2005) (44X)",,0,,0,0,0,0,1332
+--Long Term Debt Outstanding Unspecified Public Purpose (49U),Gross Public Debt,Public Debt,Long Term Debt Outstanding Unspecified Public Purpose (49U),,0,g,0,762.5,"1,599.10",2361.6,1333
+--Short Term Debt Outstanding - End of Fiscal Year (64V),Gross Public Debt,Public Debt,Short Term Debt Outstanding  End of Fiscal Year (64V),,0,g,0,-3.2,22.7,19.6,1334
+#NAME?,Gross Public Debt,Public Debt,Gross Public Debt (FDB),,0,,0,0,0,0,1335
+#NAME?,Gross Public Debt,Public Debt,Debt Held by Public: Other (FDO),,10559.7,e,0,0,0,10559.7,1336
+#NAME?,Gross Public Debt,Public Debt Held by Government,Debt Held by Federal Government Accounts (FDG),,4911.3,b,0,0,0,4911.3,1337
+,,Level2,Level3,Level4,,,,,,,
