@@ -1,0 +1,59 @@
+<style type="text/css"> 
+
+.legend  {
+min-width: 200px;
+display: flex;
+justify-content: flex-start;
+flex-wrap: wrap;
+font-size: 16px;
+padding: 10px 40px;
+}
+
+.legend >div{
+margin: 0px 25px 10px 0px;
+flex-grow: 0;
+cursor: pointer;
+opacity: 0.3;
+}
+
+.legend .series-marker:hover {
+    opacity: 0.8;
+}
+
+.legend p {
+    display:inline;
+    font-size: 0.8em;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.legend .series-marker {
+    height: 1em;
+    width: 1em;
+    border-radius: 35%;
+    background-color: crimson;
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: -0.16rem;
+}
+
+</style> 
+
+<div class="legend">
+<div>
+<div class="series-marker" style="background-color: rgb(31, 119, 180);"></div>
+<p>Variable A</p>
+</div>
+<div>
+<div class="series-marker" style="background-color: rgb(255, 127, 14);"></div>
+<p>Variable B</p>
+</div>
+<div>
+<div class="series-marker" style="background-color: rgb(44, 160, 44);"></div>
+<p>Variable C</p>
+</div>
+<div>
+<div class="series-marker" style="background-color: rgb(214, 39, 40);"></div>
+<p>Variable D</p>
+</div>
+</div>
